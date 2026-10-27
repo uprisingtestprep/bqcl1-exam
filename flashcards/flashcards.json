@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What role does the Civil Code of Quebec play within Quebec private law?",
+    "back": "The Civil Code supplies the general private law (jus commune) for persons, relationships between persons, and property. Other laws may complete the Code or create valid exceptions within their own scope."
+  },
+  {
+    "id": 2,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Why is Quebec described as having a mixed legal order?",
+    "back": "Quebec private law is mainly codified in the civil law tradition. Public law and some legal institutions also show common law influences, so the field must be identified before choosing the governing sources."
+  },
+  {
+    "id": 3,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How should a lawyer rank constitutional, statutory, regulatory, and secondary legal sources?",
+    "back": "The Constitution ranks above every ordinary statute and regulation, and a valid statute controls a regulation made under it. Doctrine and usage can aid interpretation but cannot displace the Constitution or clear enacted law."
+  },
+  {
+    "id": 4,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What is the difference between a suppletive rule and a public order rule?",
+    "back": "A suppletive rule supplies a default result that capable parties may replace by lawful agreement. A public order rule protects an interest that private parties cannot remove by contract."
+  },
+  {
+    "id": 5,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What limit does Civil Code article 8 place on renouncing the exercise of a civil right?",
+    "back": "A person may renounce the exercise of a civil right only to the extent that the renunciation is consistent with public order. A written waiver does not make an otherwise prohibited renunciation valid."
+  },
+  {
+    "id": 6,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How does Civil Code article 9 treat private agreements that depart from Code rules?",
+    "back": "Parties may depart from rules that supplement intention, but they may not depart from public order rules. The court must classify the particular rule before deciding whether the agreement controls."
+  },
+  {
+    "id": 7,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What does good faith (bonne foi) require when a person exercises a civil right?",
+    "back": "Article 6 requires civil rights to be exercised in accordance with good faith. This duty can affect negotiation, performance, communication, and the manner in which a valid power is used."
+  },
+  {
+    "id": 8,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When is exercising a right abusive because of the holder's intended result?",
+    "back": "Article 7 prohibits exercising a right with the intention of injuring another. Proof of a dominant injurious purpose can support abuse even when the holder formally owns or holds the right."
+  },
+  {
+    "id": 9,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When may a right be abusive even without proof of an intention to injure?",
+    "back": "A right may be abused when it is exercised in an excessive and unreasonable manner contrary to good faith. Courts examine purpose, proportionality, effects, alternatives, and the parties' relative positions."
+  },
+  {
+    "id": 10,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Which party must prove bad faith when one party alleges abusive conduct?",
+    "back": "Article 2805 presumes good faith unless the law expressly requires proof. The party alleging bad faith or abuse must therefore present evidence capable of overcoming that presumption."
+  },
+  {
+    "id": 11,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Who bears the burden of proof when a person seeks to assert a civil right?",
+    "back": "Article 2803 places the burden on the person who asserts the right to prove the facts supporting that claim. The defendant may have a burden for a defence but does not have to disprove the whole claim first."
+  },
+  {
+    "id": 12,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What ordinary standard of proof applies to most facts in a Quebec civil case?",
+    "back": "Article 2804 ordinarily requires evidence that makes the existence of a fact more probable than its non existence. A higher standard applies only when the law expressly requires stronger proof."
+  },
+  {
+    "id": 13,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What is the difference between a fact and an inference in legal proof?",
+    "back": "A fact is a circumstance that evidence directly tends to establish. An inference is a conclusion drawn from proved facts, such as moving from speed and road conditions to carelessness."
+  },
+  {
+    "id": 14,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What factors guide the interpretation of a Civil Code provision?",
+    "back": "The court considers the ordinary meaning of the text, its context, related provisions, the statutory purpose, and likely consequences. The Quebec Charter and the Code's role as general private law may also affect the reading."
+  },
+  {
+    "id": 15,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Can a court use legislative purpose to replace clear statutory text?",
+    "back": "Purpose helps resolve ambiguity and confirms the meaning of unclear words. It does not allow a court to rewrite a clear provision merely because another result seems fairer."
+  },
+  {
+    "id": 16,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What role does judicial precedent have in Quebec civil law?",
+    "back": "Judgments apply and explain enacted law but are not themselves new Civil Code articles. Their practical authority depends on the deciding court, the legal question, the reasoning, and the similarity of material facts."
+  },
+  {
+    "id": 17,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How does a Supreme Court of Canada ruling affect a lower Quebec court?",
+    "back": "A Supreme Court ruling on a question of law binds lower courts in the Canadian judicial hierarchy. A lower judge must apply the ruling unless the case can be validly distinguished on its facts or law."
+  },
+  {
+    "id": 18,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How much authority should a single trial judgment receive in later litigation?",
+    "back": "A trial judgment is often persuasive rather than binding on courts of coordinate or higher rank. Its reasoning, factual similarity, and relationship to appellate authority must be examined before it is relied on."
+  },
+  {
+    "id": 19,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What is the usual role of doctrine (doctrine) in Quebec legal research?",
+    "back": "Doctrine organizes, explains, and criticizes the law through scholarly writing. It can support analysis but cannot replace a valid statute, regulation, or binding judicial ruling."
+  },
+  {
+    "id": 20,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When can usage affect the interpretation of an obligation or contract?",
+    "back": "Accepted usage may inform interpretation where the governing rule gives it weight, such as in assessing the parties' context or an incomplete term. It cannot override clear text or mandatory law."
+  },
+  {
+    "id": 21,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How does a valid special statute interact with a general Civil Code rule?",
+    "back": "The Civil Code supplies the general private law foundation while the special statute may complement it or create an exception. Counsel should identify the special rule's purpose, scope, and any mandatory protection."
+  },
+  {
+    "id": 22,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How should federal and provincial authority be separated in a family law problem?",
+    "back": "Federal law controls the divorce and federal corollary relief, while Quebec law governs matters within provincial competence such as property and supporting private law institutions. Each issue must be connected to its source of legislative authority."
+  },
+  {
+    "id": 23,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When does federal paramountcy make a valid provincial rule inoperative?",
+    "back": "Paramountcy applies when a valid federal rule and a valid provincial rule cannot operate together, or when the provincial rule frustrates the federal purpose. The conflict must be real, and consistent interpretation is attempted first."
+  },
+  {
+    "id": 24,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What does procedural proportionality require in Quebec civil litigation?",
+    "back": "Proportionality requires procedures and costs to be suited to the nature, complexity, and value of the dispute. A court may narrow or refuse a costly step when its benefit does not justify the burden."
+  },
+  {
+    "id": 25,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How do substantive rights differ from procedural rules?",
+    "back": "Substantive law defines rights, obligations, conditions, and remedies. Procedure determines how a claim is presented, proved, managed, and enforced in court."
+  },
+  {
+    "id": 26,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Why must counsel check for special limitation periods before applying the general Quebec period?",
+    "back": "The three year general period is not a universal deadline. The nature of the claim and any governing special statute must be identified before the applicable period and triggering event are calculated."
+  },
+  {
+    "id": 27,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When does testimony generally fail as proof of a juridical act between the parties?",
+    "back": "Article 2862 generally requires written proof between the parties when the value in dispute exceeds $1,500. Exceptions may allow testimony, including where there is a commencement of proof or where written proof could not reasonably be obtained."
+  },
+  {
+    "id": 28,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What is a commencement of proof and why can it matter to admissibility?",
+    "back": "A commencement of proof is a writing or circumstance that makes an alleged fact appear likely and supports the possibility that the fact occurred. It can permit testimony that would otherwise be limited by the writing rule."
+  },
+  {
+    "id": 29,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What must be shown before res judicata can bar a later civil claim?",
+    "back": "Article 2848 requires the same object, the same cause, and the same parties acting in the same qualities. A final judgment then creates an absolute presumption limited to that decided matter."
+  },
+  {
+    "id": 30,
+    "domain": "civil_law_foundations_and_method",
+    "front": "When must a court reject evidence obtained through a fundamental rights violation?",
+    "back": "Article 2858 requires the court to reject evidence obtained in violation of fundamental rights or freedoms when its use would tend to bring the administration of justice into disrepute. The court must make that assessment even on its own initiative."
+  },
+  {
+    "id": 31,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What happens when a regulation exceeds the authority granted by its enabling statute?",
+    "back": "A regulation must remain within the powers conferred by its enabling statute. A provision that exceeds those powers or conflicts with the statute may be invalid to that extent."
+  },
+  {
+    "id": 32,
+    "domain": "civil_law_foundations_and_method",
+    "front": "Does a newer regulation automatically override an older statute?",
+    "back": "Adoption date does not reverse the hierarchy between delegated legislation and its enabling statute. A regulation remains subordinate to the statute even when the government adopted it later."
+  },
+  {
+    "id": 33,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What must a court check before granting a requested civil remedy after finding a breach?",
+    "back": "The remedy must be legally available for the right infringed and supported by the evidence. The court also considers proportionality, enforceability, the claimant's conduct, and any statutory conditions."
+  },
+  {
+    "id": 34,
+    "domain": "civil_law_foundations_and_method",
+    "front": "How should a candidate organize issues in a multi step civil law fact pattern?",
+    "back": "A useful plan identifies the parties and relationships, lists events chronologically, and separates substantive rights, evidence, procedure, and remedy. That structure prevents one missing element from being hidden inside a broad conclusion."
+  },
+  {
+    "id": 35,
+    "domain": "civil_law_foundations_and_method",
+    "front": "What should an answer do when an essential fact is missing from a legal scenario?",
+    "back": "The answer should explain the competing results and identify the missing fact that determines the outcome. A conditional conclusion is stronger than inventing a fact without evidence."
+  },
+  {
+    "id": 36,
+    "domain": "persons",
+    "front": "What does juridical personality (personnalité juridique) mean under article 1?",
+    "back": "Every human being possesses juridical personality and has the full enjoyment of civil rights. Personality is not limited to persons who can personally perform every legal act."
+  },
+  {
+    "id": 37,
+    "domain": "persons",
+    "front": "What is a person's patrimony (patrimoine) under article 2?",
+    "back": "Every person is the holder of a patrimony formed by the person's assets and liabilities. It may be divided or appropriated to a purpose only to the extent that the law provides."
+  },
+  {
+    "id": 38,
+    "domain": "persons",
+    "front": "Which personality rights are named in Civil Code article 3?",
+    "back": "Article 3 names life, inviolability and integrity of the person, and respect for name, reputation, and privacy. These personality rights are inalienable."
+  },
+  {
+    "id": 39,
+    "domain": "persons",
+    "front": "What protection does article 35 give to reputation and privacy?",
+    "back": "Every person is entitled to respect for reputation and privacy. Privacy may not be invaded without consent or legal authorization."
+  },
+  {
+    "id": 40,
+    "domain": "persons",
+    "front": "Which conduct may amount to an invasion of privacy under article 36?",
+    "back": "Examples include entering a dwelling, intercepting private communications, misusing an image or voice in private premises, and observing private life. The list is illustrative, so other serious intrusions may also violate privacy."
+  },
+  {
+    "id": 41,
+    "domain": "persons",
+    "front": "What limits apply when an organization creates a file about another person?",
+    "back": "Article 37 requires a serious and legitimate reason and limits collection to information relevant to the stated objective. The keeper may not disclose or repurpose the information without consent or legal authority."
+  },
+  {
+    "id": 42,
+    "domain": "persons",
+    "front": "What rights does a person have concerning an inaccurate personal file?",
+    "back": "Articles 38 to 40 give access and permit correction of inaccurate, incomplete, or equivocal information. Obsolete or unjustified information may also be deleted, subject to the Code's exceptions."
+  },
+  {
+    "id": 43,
+    "domain": "persons",
+    "front": "What does inviolability of the person require before care is provided?",
+    "back": "Article 10 protects personal inviolability, and article 11 ordinarily requires free and enlightened consent to care. Consent must be sufficiently informed and must cover the proposed interference."
+  },
+  {
+    "id": 44,
+    "domain": "persons",
+    "front": "Can consent to care be withdrawn after a patient initially accepts treatment?",
+    "back": "Consent may ordinarily be withdrawn at any time, even verbally, unless the law requires another form. The provider must respond to a valid withdrawal and cannot rely permanently on earlier consent."
+  },
+  {
+    "id": 45,
+    "domain": "persons",
+    "front": "What standard guides a substitute who consents to care for an incapable person?",
+    "back": "Article 12 requires the substitute to act in the sole interest of the person receiving care and follow known wishes so far as possible. The substitute assesses benefit, advisability, risk, and proportionality."
+  },
+  {
+    "id": 46,
+    "domain": "persons",
+    "front": "When does the emergency exception remove the ordinary requirement of consent to care?",
+    "back": "Article 13 applies when life is in danger or integrity is threatened and consent cannot be obtained in due time. Consent remains necessary when the care is unusual, useless, or could have intolerable consequences."
+  },
+  {
+    "id": 47,
+    "domain": "persons",
+    "front": "Who may consent to care required by the health of a minor aged 14 or over?",
+    "back": "Article 14 allows the minor aged 14 or over to consent alone to care required by their state of health. If the stay in a health or social services establishment exceeds 12 hours, the person with parental authority or the tutor must be informed."
+  },
+  {
+    "id": 48,
+    "domain": "persons",
+    "front": "When does a minor aged 14 or over need parental or tutor consent for care not required by health?",
+    "back": "Article 17 allows the minor to consent alone unless the care involves a serious health risk and may cause grave and permanent effects. In that higher risk situation, consent from the person with parental authority or the tutor is required."
+  },
+  {
+    "id": 49,
+    "domain": "persons",
+    "front": "What happens when a minor aged 14 or over refuses care required by health outside an emergency?",
+    "back": "Article 16 requires court authorization before the minor may be submitted to the refused care. In an emergency where life is in danger or integrity is threatened, parental or tutor consent is sufficient."
+  },
+  {
+    "id": 50,
+    "domain": "persons",
+    "front": "What step is required when an incapable adult categorically refuses care outside the emergency exception?",
+    "back": "Article 16 requires court authorization before the care may be imposed, except for hygienic care or emergency care. Substitute consent alone does not override the categorical refusal."
+  },
+  {
+    "id": 51,
+    "domain": "persons",
+    "front": "What parts make up a person's legal name under article 50?",
+    "back": "A legal name consists of a surname and given names, including the usual given name. The name is assigned at birth and stated in the act of birth."
+  },
+  {
+    "id": 52,
+    "domain": "persons",
+    "front": "What remedy can follow unauthorized use of another person's name?",
+    "back": "Article 56 makes a person who uses another name liable for resulting confusion or injury. The holder and certain close persons may object and seek redress."
+  },
+  {
+    "id": 53,
+    "domain": "persons",
+    "front": "Which authority may approve an administrative name change for a serious reason?",
+    "back": "Article 58 allows the registrar of civil status to authorize a name change outside court jurisdiction when a serious reason is shown. Examples include a name that is exceptionally difficult to use, invites ridicule, or has become infamous."
+  },
+  {
+    "id": 54,
+    "domain": "persons",
+    "front": "What effect does a legal name change have on existing rights and obligations?",
+    "back": "Article 68 provides that a name change does not alter the person's existing rights and obligations. Documents and proceedings continue under the new name without erasing the underlying relationship."
+  },
+  {
+    "id": 55,
+    "domain": "persons",
+    "front": "How is a person's domicile defined for the exercise of civil rights?",
+    "back": "Article 75 defines domicile as the place of the person's principal establishment. Domicile is more than a temporary address and depends on the person's principal residential establishment."
+  },
+  {
+    "id": 56,
+    "domain": "persons",
+    "front": "What two elements are required to change domicile under article 76?",
+    "back": "The person must establish residence in another place and intend to make that place the principal establishment. The intention is proved through declarations and the circumstances of the case."
+  },
+  {
+    "id": 57,
+    "domain": "persons",
+    "front": "What domicile applies to an unemancipated minor when the parents live separately?",
+    "back": "Article 80 generally gives the minor the tutor's domicile. When both parents exercise tutorship but have no common domicile, the domicile is presumed to be that of the parent with whom the minor usually resides, unless a court decides otherwise."
+  },
+  {
+    "id": 58,
+    "domain": "persons",
+    "front": "What is an election of domicile in a written juridical act?",
+    "back": "Article 83 allows the parties to choose an address for performance of the act or exercise of related rights. Election of domicile is not presumed and must be established from the writing."
+  },
+  {
+    "id": 59,
+    "domain": "persons",
+    "front": "What core duties belong to the registrar of civil status?",
+    "back": "Article 103 makes the registrar the sole officer of civil status. The registrar draws up and alters acts, keeps the register, and ensures its publication."
+  },
+  {
+    "id": 60,
+    "domain": "persons",
+    "front": "Which events are recorded as acts of civil status under article 107?",
+    "back": "The only acts of civil status are acts of birth, acts of marriage or civil union, and acts of death. Other judgments may be noted in the register without becoming separate acts of civil status."
+  },
+  {
+    "id": 61,
+    "domain": "persons",
+    "front": "What information does a certificate of civil status contain under article 146?",
+    "back": "A certificate states the person's name and designation of sex, birth particulars, and parents. It may also state marriage or civil union and death particulars where applicable."
+  },
+  {
+    "id": 62,
+    "domain": "persons",
+    "front": "What translation is required for a foreign civil status act in another language?",
+    "back": "Article 140 requires a translation authenticated in Quebec when the foreign act is not in French. The required translation accompanies the document submitted for registration or recognition."
+  },
+  {
+    "id": 63,
+    "domain": "persons",
+    "front": "At what age does full legal age begin in Quebec?",
+    "back": "Article 153 sets full age at 18 and ending minority. Exercise of civil rights at full age remains subject to any applicable adult protection judgment or express legal limitation."
+  },
+  {
+    "id": 64,
+    "domain": "persons",
+    "front": "How may the capacity of a person of full age be restricted under article 154?",
+    "back": "Adult capacity may be limited only by express law or by a judgment establishing tutorship, homologating a protection mandate, or authorizing temporary representation. A private declaration or medical diagnosis alone does not create a general legal incapacity."
+  },
+  {
+    "id": 65,
+    "domain": "persons",
+    "front": "At what point is contractual capacity assessed when consent is challenged?",
+    "back": "Article 1398 asks whether the person was capable of binding themselves when consent was expressed. A later improvement or decline does not automatically change the validity of the earlier act."
+  },
+  {
+    "id": 66,
+    "domain": "persons",
+    "front": "What contracts may a minor make alone for ordinary and usual needs?",
+    "back": "Article 157 permits a minor to contract alone for ordinary and usual needs within the limits of age and discernment. The nature, value, and circumstances of the transaction all matter."
+  },
+  {
+    "id": 67,
+    "domain": "persons",
+    "front": "What employment capacity does a minor aged 14 or over have?",
+    "back": "Article 156 deems the minor to be of full age for acts pertaining to employment, a craft, or a profession. This does not grant full adult capacity for unrelated transactions."
+  },
+  {
+    "id": 68,
+    "domain": "persons",
+    "front": "What is the consequence when a minor acts alone where representation is legally required?",
+    "back": "Article 161 makes the unauthorized act absolutely null. The rule applies when the law does not allow the minor to act alone and the act was not performed through a representative."
+  },
+  {
+    "id": 69,
+    "domain": "persons",
+    "front": "What remedy follows when a tutor performs an act without required court authorization?",
+    "back": "Article 162 allows the act to be annulled on the minor's application without proof of injury. The missing court authorization must be one that the nature of the act legally requires."
+  },
+  {
+    "id": 70,
+    "domain": "persons",
+    "front": "When must injury be proved to challenge an act under article 163?",
+    "back": "Article 163 applies when a minor acts alone or a tutor acts without required tutorship council authorization. The minor may avoid or reduce the obligation only by proving injury from the act."
+  },
+  {
+    "id": 71,
+    "domain": "persons",
+    "front": "Can minority excuse a minor from extracontractual liability caused by personal fault?",
+    "back": "Article 164 states that a minor cannot avoid an extracontractual obligation to redress injury caused by the minor's fault. Minority may affect some contracts but does not erase every consequence of civil fault."
+  },
+  {
+    "id": 72,
+    "domain": "persons",
+    "front": "Does a minor's false declaration of full age remove the minor's nullity remedy?",
+    "back": "Article 165 provides that a minor's mere declaration of full age does not remove the action in nullity or reduction of obligations. The false statement does not create adult capacity."
+  },
+  {
+    "id": 73,
+    "domain": "persons",
+    "front": "What may a person confirm after reaching full age under article 166?",
+    "back": "The new adult may confirm an act made during minority for which representation was required. After the tutorship accounts, the person may also confirm an act affected by an omitted formality."
+  },
+  {
+    "id": 74,
+    "domain": "persons",
+    "front": "What is simple emancipation and what capacity does it give a minor?",
+    "back": "Simple emancipation changes the minor's representation and allows acts of simple administration. It does not end minority or confer every right of full age."
+  },
+  {
+    "id": 75,
+    "domain": "persons",
+    "front": "How may full emancipation be obtained and what is its effect?",
+    "back": "Article 175 allows full emancipation through marriage or a court decision for a serious reason. A fully emancipated minor may exercise civil rights as if of full age."
+  },
+  {
+    "id": 76,
+    "domain": "persons",
+    "front": "What are the three categories of tutorship to a minor?",
+    "back": "Article 178 classifies tutorship as legal, suppletive, or dative. The category shows whether the authority arises by law, by family designation, or by court appointment."
+  },
+  {
+    "id": 77,
+    "domain": "persons",
+    "front": "When do parents act as legal tutors to their minor child?",
+    "back": "Article 192 makes parents legal tutors when they are of full age or emancipated. They represent the child and administer the child's patrimony in addition to holding parental authority."
+  },
+  {
+    "id": 78,
+    "domain": "persons",
+    "front": "Can parents be legal tutors to a child conceived but not yet born?",
+    "back": "Article 192 extends the parents' legal tutorship to a conceived child for patrimonial protection. They may act when the child's patrimonial interests require representation."
+  },
+  {
+    "id": 79,
+    "domain": "persons",
+    "front": "How may a parent appoint a dative tutor to a minor child?",
+    "back": "Article 200 allows appointment by will, protection mandate, or declaration filed with the Public Curator. The appointed person accepts or refuses under the dative tutorship rules."
+  },
+  {
+    "id": 80,
+    "domain": "persons",
+    "front": "What level of property administration does a tutor ordinarily exercise for a minor?",
+    "back": "Article 208 makes the tutor an administrator charged with simple administration of the minor's property. Significant transactions can require advice or authorization from the tutorship council or the court."
+  },
+  {
+    "id": 81,
+    "domain": "persons",
+    "front": "What additional duties apply to parents who tutor property worth more than $40,000?",
+    "back": "Article 209 subjects the parents to inventory, security, annual accounting, and related authorization duties when the property exceeds $40,000 or a court orders those safeguards. The ordinary parental exemption does not continue without limit."
+  },
+  {
+    "id": 82,
+    "domain": "persons",
+    "front": "What events end tutorship to a minor under article 255?",
+    "back": "Tutorship ends when the minor reaches full age, obtains full emancipation, or dies. End of office also triggers the tutor's final accounting and delivery duties."
+  },
+  {
+    "id": 83,
+    "domain": "persons",
+    "front": "What main function does the tutorship council perform?",
+    "back": "Article 222 gives the council the role of supervising the tutorship. It gives advice, makes decisions required by law, and reviews the tutor's administration and accounts."
+  },
+  {
+    "id": 84,
+    "domain": "persons",
+    "front": "When may a tutor ad hoc be appointed for a minor?",
+    "back": "Articles 190 and 235 allow a tutor ad hoc when the minor has an interest to discuss judicially with the ordinary tutor. The appointment provides independent representation for that conflict."
+  },
+  {
+    "id": 85,
+    "domain": "persons",
+    "front": "When does the director of youth protection become legal tutor by operation of law?",
+    "back": "Article 199 applies when parents are deprived of parental authority and no other tutor is appointed. The director for the child's place of residence then serves as legal tutor."
+  },
+  {
+    "id": 86,
+    "domain": "persons",
+    "front": "What rights and duties make up parental authority under article 599?",
+    "back": "Parents have rights and duties of custody, supervision, education, and maintenance. Parental authority must be exercised without violence."
+  },
+  {
+    "id": 87,
+    "domain": "persons",
+    "front": "What standard governs a decision concerning a child under article 33?",
+    "back": "The decision must be taken in light of the child's interests and respect for the child's rights. The court considers the child's needs, age, health, personality, family environment, and the presence of family violence."
+  },
+  {
+    "id": 88,
+    "domain": "persons",
+    "front": "How are support obligations assessed under articles 585 and 587?",
+    "back": "Article 585 makes married or civil-union spouses and direct-line first-degree relatives support debtors. Cohabitation alone does not create a support debt under that article, and article 587 considers needs, means, circumstances, and autonomy."
+  },
+  {
+    "id": 89,
+    "domain": "persons",
+    "front": "What control does a child aged 10 or over have over relations with grandparents?",
+    "back": "Article 611 requires the consent of a child aged 10 or over for personal relations with grandparents to be maintained or developed. The requirement yields where the child is unable to express their will, and the child may also end the relationship."
+  },
+  {
+    "id": 90,
+    "domain": "persons",
+    "front": "Which modern institutions protect adults who need representation without automatically removing all capacity?",
+    "back": "Current Quebec law uses tutorship to a person of full age, homologation of a protection mandate, and temporary representation for a specific act. The court may tailor the protected person's capacity to the acts and circumstances shown by the evidence."
+  },
+  {
+    "id": 91,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What formal elements are required for the solemnization of marriage under article 365?",
+    "back": "Marriage must be contracted openly before a competent officiant and two witnesses. The officiant must also verify identity, legal conditions, and required formalities before solemnizing the union."
+  },
+  {
+    "id": 92,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How long does marriage publication ordinarily last and when may it be dispensed with?",
+    "back": "Article 368 ordinarily requires publication for 20 days before the solemnization. Article 370 allows the registrar to grant a dispensation for a serious reason."
+  },
+  {
+    "id": 93,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What authorization is required before a minor may marry in Quebec?",
+    "back": "Article 373 requires court authorization for solemnization of a minor's marriage. The person with parental authority or the tutor is summoned to give advice."
+  },
+  {
+    "id": 94,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What declarations occur during the marriage ceremony under article 374?",
+    "back": "The officiant reads articles 392 to 396 in the presence of the witnesses. Each spouse then personally declares the wish to take the other as spouse before the officiant declares them married."
+  },
+  {
+    "id": 95,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How is a marriage ordinarily proved and what can possession of status cure?",
+    "back": "Article 378 ordinarily proves marriage through the act of marriage. Article 379 allows possession of the status of spouses to compensate for a defect of form in that act."
+  },
+  {
+    "id": 96,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What time limit normally applies to an action for nullity of marriage?",
+    "back": "Article 380 ordinarily bars an action after three years from solemnization. No such bar applies where public order is concerned, including when consent was not free and enlightened."
+  },
+  {
+    "id": 97,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How does nullity of marriage affect the children of the spouses?",
+    "back": "Article 381 preserves the children's legal advantages under the law or marriage contract. The rights and duties of the parents toward the children are also unaffected."
+  },
+  {
+    "id": 98,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What patrimonial option belongs to the only spouse found in good faith after marriage nullity?",
+    "back": "When only one spouse was in good faith, article 384 allows that spouse to take back property or apply for liquidation of patrimonial rights arising from the marriage. Article 382 instead governs when both spouses were in good faith and ordinarily requires liquidation unless they agree together to take back property."
+  },
+  {
+    "id": 99,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which equal personal duties arise from marriage under article 392?",
+    "back": "Spouses owe each other respect, fidelity, succour, and assistance. They are also bound to share a community of life."
+  },
+  {
+    "id": 100,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How do spouses choose the family residence under article 395?",
+    "back": "The spouses choose the family residence together. Without an express choice, it is presumed to be where the family members live while carrying on their principal activities."
+  },
+  {
+    "id": 101,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How do spouses contribute to marriage expenses under article 396?",
+    "back": "Each spouse contributes in proportion to their respective means. Contributions may be made through paid activity or through work within the home."
+  },
+  {
+    "id": 102,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When does a contract for current family needs bind the non contracting spouse?",
+    "back": "Article 397 ordinarily binds the other spouse for the whole when the spouses are not separated from bed and board. The other spouse avoids liability by informing the third party beforehand of unwillingness to be bound."
+  },
+  {
+    "id": 103,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When may a court authorize a spouse to perform an act that requires the other spouse's consent?",
+    "back": "Article 399 applies when consent cannot be obtained or when refusal is not justified by the family's interest. The authorization is special, time limited, and may be amended or revoked."
+  },
+  {
+    "id": 104,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What consent rule protects movable property serving for the use of the household?",
+    "back": "Article 401 requires spousal consent to alienate, hypothecate, or remove protected household movables. Article 402 allows annulment, but a good faith onerous acquirer may be protected."
+  },
+  {
+    "id": 105,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What protection applies when a leased dwelling is the family residence?",
+    "back": "After the lessor is notified that the dwelling is the family residence, article 403 requires the other spouse's written consent to sublet, transfer, or terminate the lease. The non consenting spouse may apply to annul the unauthorized act."
+  },
+  {
+    "id": 106,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What consent rule applies when the family residence is in an immovable with fewer than five dwellings?",
+    "back": "Article 404 requires the other spouse's written consent to alienate the immovable, charge it with a real right, or lease the part used as the residence. An unauthorized spouse may seek annulment if a declaration of family residence was registered."
+  },
+  {
+    "id": 107,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How does article 405 protect a family residence in an immovable with five or more dwellings?",
+    "back": "The owner spouse needs the other spouse's written consent to alienate the immovable or lease the part used as the residence. A registered declaration can support annulment or a lease of the occupied premises for the non consenting spouse."
+  },
+  {
+    "id": 108,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Who may make a declaration of family residence and why does registration matter?",
+    "back": "Article 407 allows both spouses together or either spouse to make the declaration. Registration can affect third persons and support annulment or lease remedies for an unauthorized residence transaction."
+  },
+  {
+    "id": 109,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What is the family patrimony (patrimoine familial) and how does it differ from a matrimonial regime?",
+    "back": "Article 414 creates the family patrimony from designated property when a marriage exists, regardless of which spouse owns each asset. A matrimonial regime governs property relations more broadly, while the family patrimony is a mandatory pool subject to its own partition rules."
+  },
+  {
+    "id": 110,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which assets are included in the family patrimony under article 415?",
+    "back": "The family patrimony includes family residences and rights giving their use, household furnishings, motor vehicles used for family travel, and retirement benefits accrued during marriage. Registered Quebec Pension Plan earnings during marriage are also included, subject to the stated exceptions."
+  },
+  {
+    "id": 111,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Are inherited property and gifts included in the family patrimony?",
+    "back": "Article 415 excludes property devolved by succession or gift before or during the marriage. Occasional family use does not by itself remove that exclusion."
+  },
+  {
+    "id": 112,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How is the family patrimony partitioned when a marriage ends?",
+    "back": "Article 416 equally divides the net value of the family patrimony after deducting debts contracted for its acquisition, improvement, maintenance, or preservation. The division can occur between spouses or between the survivor and the heirs."
+  },
+  {
+    "id": 113,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What date ordinarily fixes the value of the family patrimony?",
+    "back": "Article 417 ordinarily values the property and qualifying debts at the date of death or the institution of the action ending the marriage. The court may exceptionally use the date the spouses stopped sharing a community of life."
+  },
+  {
+    "id": 114,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What deductions can reduce the family patrimony before partition under article 418?",
+    "back": "A spouse may deduct the net value of qualifying property owned at marriage that entered the family patrimony. A deduction may also apply to a qualifying contribution made from inherited or gifted property, including its proportionate increase in value."
+  },
+  {
+    "id": 115,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Can spouses renounce family patrimony rights in advance through a marriage contract?",
+    "back": "Article 423 prohibits renunciation through a marriage contract or another pre dissolution act. A spouse may renounce only later, using the required notarial or recorded judicial form after the right arises."
+  },
+  {
+    "id": 116,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What purpose does the compensatory allowance (prestation compensatoire) serve?",
+    "back": "Article 427 compensates a spouse for a contribution in property or services that enriched the other spouse's patrimony. The court considers the advantages of the matrimonial regime and marriage contract when fixing an amount."
+  },
+  {
+    "id": 117,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which matrimonial regime applies when spouses make no marriage contract?",
+    "back": "Article 432 makes the partnership of acquests (société d'acquêts) the legal default. A different regime must be established through a valid marriage contract."
+  },
+  {
+    "id": 118,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What property generally forms each spouse's acquests under article 449?",
+    "back": "Acquests include property not declared private by law, the proceeds of the spouse's work during the regime, and fruits and income from private property or acquests. The regime therefore rejects the assumption that every item is automatically shared private property."
+  },
+  {
+    "id": 119,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which examples of private property are listed in article 450?",
+    "back": "Private property includes property owned when the regime begins and property received during the regime by succession or gift. It also includes qualifying replacement property, personal papers and clothing, and occupation instruments, subject to compensation rules."
+  },
+  {
+    "id": 120,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What happens when acquests and private property are mixed to acquire property under article 451?",
+    "back": "The property is private and compensation is due if the private contribution is greater than one half of the total cost. Otherwise it is an acquest subject to compensation."
+  },
+  {
+    "id": 121,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What presumption applies to property during the partnership of acquests?",
+    "back": "Article 459 presumes property to be an acquest unless private property is established. If exclusive private ownership or an acquest cannot be proved, article 460 presumes undivided co ownership in equal shares."
+  },
+  {
+    "id": 122,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How do spouses administer and dispose of private property and acquests during the partnership?",
+    "back": "Article 461 gives each spouse administration, enjoyment, and free disposal of private property and acquests. Article 462 nevertheless limits gratuitous disposal of acquests without the other spouse's consent."
+  },
+  {
+    "id": 123,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How are debts treated during the partnership of acquests under article 464?",
+    "back": "Each spouse is individually liable on private property and acquests for debts personally incurred before or during marriage. During the regime, neither spouse is ordinarily liable for the other's debts except under a specific rule such as family needs."
+  },
+  {
+    "id": 124,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which events dissolve the partnership of acquests under article 465?",
+    "back": "Dissolution occurs through death, a conventional change of regime, divorce or separation, qualifying absence, or nullity when the marriage still produces effects. The parties then move to acceptance or renunciation and liquidation."
+  },
+  {
+    "id": 125,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What are the basic effects of conventional separation as to property (séparation de biens)?",
+    "back": "Article 485 creates the regime through a declaration in the marriage contract. Under article 486 each spouse administers, enjoys, and freely disposes of all personal property."
+  },
+  {
+    "id": 126,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Who may form a civil union (union civile) in Quebec?",
+    "back": "A civil union may be formed by two persons aged 18 or older who freely consent and share a community of life. Neither person may already be married or in a civil union, and the prohibited family relationships apply. Both persons must also understand the rights and obligations created by the status."
+  },
+  {
+    "id": 127,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How closely do the family effects of a civil union resemble marriage?",
+    "back": "Civil union spouses have the same rights and obligations and owe each other respect, fidelity, succour, and assistance. The rules for family direction, parental authority, expenses, family residence, family patrimony, and the compensatory allowance apply with necessary modifications. These personal effects cannot be removed by choosing a different property regime."
+  },
+  {
+    "id": 128,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which property regime applies to civil union spouses who make no valid agreement?",
+    "back": "Partnership of acquests is the default civil union regime. The spouses may choose another regime by a valid civil union contract, subject to imperative law and public order. Without that choice, the ordinary rules for classification, administration, debts, and liquidation apply."
+  },
+  {
+    "id": 129,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which events can dissolve a civil union in Quebec?",
+    "back": "A civil union is dissolved by death, court judgment, or a joint notarial declaration in the permitted circumstances. It can also end when the two spouses marry each other, in which case the earlier effects continue as marriage effects. Divorce is not the procedure used to dissolve a civil union."
+  },
+  {
+    "id": 130,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What are the main consequences of nullity of a civil union?",
+    "back": "A civil union not formed according to the required rules may be declared null by a court. The same general timing, public order exception, child protection, and good faith effects used for marriage apply. The nullity therefore does not automatically erase every financial consequence."
+  },
+  {
+    "id": 131,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When is a parental union (union parentale) formed?",
+    "back": "A parental union is formed when two de facto spouses become the parents of the same child. It can also form when the parents later become de facto spouses or become de facto spouses again. The relationship must satisfy the rules concerning existing unions and prohibited family relationships."
+  },
+  {
+    "id": 132,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How does an existing marriage or union affect formation of a new parental union?",
+    "back": "A parental union with a new partner forms only after the existing marriage, civil union, or parental union ends. Separation and shared parenting do not remove the existing legal bond. The date the earlier status ends is therefore important for identifying the new union."
+  },
+  {
+    "id": 133,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which events end a parental union?",
+    "back": "A parental union ends by the death of either spouse or by the spouses ceasing their community of life. It also ends when both spouses marry or enter a civil union together or when either spouse does so with a third person. The ending date controls several property and residence consequences."
+  },
+  {
+    "id": 134,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How long does family residence protection survive after a parental union ends?",
+    "back": "The family residence rules applicable to married spouses continue for 120 days after the parental union spouses cease sharing a community of life. This temporary protection allows the former spouses to address housing and transaction issues. Applications involving residence rights should therefore be brought within that period."
+  },
+  {
+    "id": 135,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Which assets initially form the parental union patrimony?",
+    "back": "The parental union patrimony initially includes family residences or rights giving their use, household movables, and family vehicles. Property received by succession or gift is excluded, and a minor spouse's property joins the patrimony only at full age. The spouses may later change the composition, but specified exclusions require the required notarial form."
+  },
+  {
+    "id": 136,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What is the effect of an early notarial withdrawal from the parental union patrimony?",
+    "back": "The parental union spouses may withdraw from the patrimony chapter by mutual agreement in a notarial act. If the withdrawal is made within the first 90 days of the union, the patrimony is treated as not having existed. A later withdrawal takes effect on the date of the attesting act."
+  },
+  {
+    "id": 137,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How may intended spouses change a marriage contract before the wedding?",
+    "back": "They may change their matrimonial agreements before solemnization when all persons who were parties to the original marriage contract consent. The change itself must be made by marriage contract. This rule prevents a side agreement from silently altering the formal contract."
+  },
+  {
+    "id": 138,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How may married spouses change their matrimonial regime during marriage?",
+    "back": "They may change the regime or any contractual stipulation by a new marriage contract. The change takes effect between them on the date of the notarial act. It becomes effective against certain third persons according to the publication and notice rules."
+  },
+  {
+    "id": 139,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What remedy exists for a creditor harmed by a change to a marriage contract?",
+    "back": "A creditor who suffers injury from the change may ask the court to declare that the change cannot be set up against the creditor. The action must be brought within one year after the creditor becomes aware of the change. This protection balances contractual freedom with reliance on the debtor's property."
+  },
+  {
+    "id": 140,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What form is required for a valid marriage contract?",
+    "back": "A marriage contract must be established by a notarial act in the notary's minute book. Failure to use that form makes the contract absolutely null. Signing a detailed document at home is not an adequate substitute."
+  },
+  {
+    "id": 141,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "Why is a notice of a marriage contract entered in the register of personal and movable real rights?",
+    "back": "The officiating notary requests registration of a notice of every marriage contract. Registration gives public notice of the spouses' chosen property arrangement. The notice supports the rules that determine when the contract or a change can be set up against third persons."
+  },
+  {
+    "id": 142,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What must a notary do when changing an earlier marriage contract held by a depositary?",
+    "back": "The notary must immediately notify the depositary of the original contract and the depositary of any prior changing contract. The depositary must note the date, notary, and minute number of the change on the contract and its copies. This keeps the official contractual record accurate."
+  },
+  {
+    "id": 143,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What are the basic ownership and administration effects of conventional separation as to property?",
+    "back": "The regime is established by a declaration in the marriage contract. Each spouse administers, enjoys, and freely disposes of their own property. Property whose exclusive owner cannot be proved is presumed to be held in equal undivided ownership."
+  },
+  {
+    "id": 144,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When may a spouse seek judicial separation as to property?",
+    "back": "A spouse may seek the remedy when applying the current matrimonial regime would harm that spouse's interests or the family's interests. The court ends the regime without dissolving the marriage. The judgment places the spouses in a separation of property position."
+  },
+  {
+    "id": 145,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "To what date are the effects of judicial separation as to property ordinarily retroactive?",
+    "back": "Between the spouses, the effects ordinarily reach back to the date of the application. The court may instead use the date when the spouses stopped sharing a community of life. The chosen date can affect both classification and valuation."
+  },
+  {
+    "id": 146,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How does partnership of acquests treat a spouse's disability pension and support right?",
+    "back": "The right to support, a disability pension, or a similar benefit remains private property. Pecuniary benefits are acquests when they become due or are collected during the regime or when they are payable to the holder's heirs at death. No compensation is normally due for premiums or amounts used to acquire those rights."
+  },
+  {
+    "id": 147,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How are intellectual property rights and their income classified in partnership of acquests?",
+    "back": "Intellectual and industrial property rights remain private property of the owning spouse. Fruits and income from those rights that become due or are collected during the regime are acquests. The rights and the income must therefore be placed in different masses."
+  },
+  {
+    "id": 148,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How are damages for moral or bodily injury classified in partnership of acquests?",
+    "back": "The right to claim damages and compensation received for moral or bodily injury are private property. The same treatment generally applies to insurance or indemnity payments for those injuries. Premiums paid with acquest funds do not normally create compensation for this classification."
+  },
+  {
+    "id": 149,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How is reinvested income from a private enterprise classified in partnership of acquests?",
+    "back": "Income from operating a private enterprise remains private when it is reinvested in that enterprise, subject to compensation where required. No compensation is due when the investment was necessary to maintain the enterprise's income. The reason for the investment therefore affects the liquidation."
+  },
+  {
+    "id": 150,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What happens when neither spouse can prove exclusive ownership of property under partnership of acquests?",
+    "back": "The property is presumed to be held by both spouses in undivided ownership, one half by each. This rule applies when the property cannot be proved to be a spouse's exclusive private property or acquest. It resolves an evidentiary gap rather than changing the ordinary classification rules."
+  },
+  {
+    "id": 151,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What does acceptance of an acquest partition confirm?",
+    "back": "Acceptance confirms the transmission that occurred by operation of law when the regime dissolved. The accepting spouse becomes accountable for the resulting share and its related liabilities. The option to accept or renounce must be exercised within the applicable formal and time rules."
+  },
+  {
+    "id": 152,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What conduct can make a spouse lose the share of the other spouse's acquests?",
+    "back": "A spouse who misappropriates or conceals acquests, wastes acquests, or administers them in bad faith may forfeit that share. The sanction protects the integrity of the acquest liquidation. The other spouse should document missing assets, losses, and improper administration."
+  },
+  {
+    "id": 153,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "To what date are the effects of dissolution of the matrimonial regime retroactive after a court application?",
+    "back": "When marriage ends through a court judgment, the effects between the spouses ordinarily reach back to the date of the application. The court may instead choose the date when the spouses ceased sharing a community of life. The date affects property classification and valuation."
+  },
+  {
+    "id": 154,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How are statutory pension benefits partitioned as part of family patrimony?",
+    "back": "The pension plan's statutory valuation and devolution rules govern the partition. If the statute supplies no suitable rules, the court determines the method. The plan administrator usually performs the resulting transfer."
+  },
+  {
+    "id": 155,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What limits protect the holder when pension benefits are partitioned?",
+    "back": "The partition cannot deprive the original holder of more than one half of the total value accrued before or during the marriage. The beneficiary also cannot receive more benefits than the holder has under the plan. The proposed order must satisfy both limits."
+  },
+  {
+    "id": 156,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When may a court refuse to partition Quebec Pension Plan earnings equally?",
+    "back": "The court may make an exception when equal partition would cause injustice because of a short marriage, waste of property, or bad faith. The exception concerns the registered plan earnings rather than the entire family patrimony. The party seeking it must prove the unfair circumstances."
+  },
+  {
+    "id": 157,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What remedy can follow an earlier family asset sale intended to reduce the other spouse's share?",
+    "back": "The court may order a compensatory payment when an earlier alienation was designed to decrease the other spouse's family patrimony benefit. The one year rule is not the only protection against improper depletion. The sale purpose, proceeds, and any replacement property should be traced."
+  },
+  {
+    "id": 158,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What payment methods and maximum period may a court use for a family patrimony balance?",
+    "back": "Payment may be made in money or by giving property. When immediate payment would cause injury, the court may spread the obligation over a period of no more than 10 years. The court may also require security or another suitable execution measure."
+  },
+  {
+    "id": 159,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How may a spouse renounce family patrimony after the right to partition arises?",
+    "back": "The renunciation must be made by notarial act in the notary's minute book or by a recorded judicial declaration. It must be entered in the register of personal and movable real rights within one year. Failure to register within that period makes the spouse deemed to have accepted."
+  },
+  {
+    "id": 160,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "When may a compensatory allowance be claimed before divorce for cooperation in an enterprise?",
+    "back": "A spouse who regularly cooperates in the other spouse's enterprise may claim when that cooperation ends because the enterprise is alienated, dissolved, or liquidated. The claim may therefore arise during the marriage. The contribution to the other patrimony must still be proved."
+  },
+  {
+    "id": 161,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What advantages does a court consider when fixing a compensatory allowance after death?",
+    "back": "The court considers the advantages produced by the matrimonial regime and the marriage contract. It also considers the benefits the claimant receives from the deceased spouse's succession. The allowance corrects a remaining enrichment and impoverishment imbalance."
+  },
+  {
+    "id": 162,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What standard governs separation from bed and board (séparation de corps)?",
+    "back": "The will to share a community of life must be gravely undermined. The court may consider an accumulation of facts, living apart, or serious failure of a marriage obligation. Separation from bed and board does not dissolve the marriage."
+  },
+  {
+    "id": 163,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What property effect normally follows separation from bed and board?",
+    "back": "The separation carries separation as to property where applicable. The spouses' community life ends, but the marriage bond remains. Property and support consequences must therefore be settled without treating the judgment as a divorce."
+  },
+  {
+    "id": 164,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "How does separation from bed and board affect gifts made in consideration of marriage?",
+    "back": "The gifts do not lapse automatically because of the separation. The court may nevertheless declare them lapsed, reduce them, or change deferred payment terms. The decision depends on the parties' circumstances."
+  },
+  {
+    "id": 165,
+    "domain": "family_and_matrimonial_regimes",
+    "front": "What happens when spouses reconcile during a separation from bed and board proceeding?",
+    "back": "A true reconciliation terminates the pending proceeding. Cohabitation for fewer than 90 days mainly to attempt reconciliation does not by itself prove reconciliation. A later proceeding may rely on grounds arising after the reconciliation."
+  },
+  {
+    "id": 166,
+    "domain": "divorce_and_family_support",
+    "front": "Which law governs divorce when the spouses married or live in Quebec?",
+    "back": "Divorce is granted under the federal Divorce Act. Quebec law supplies the civil status framework, family patrimony, matrimonial regime, family residence, and compensatory allowance rules. Quebec procedure applies only where it is consistent with the federal statute."
+  },
+  {
+    "id": 167,
+    "domain": "divorce_and_family_support",
+    "front": "Which Quebec court has authority over a divorce proceeding?",
+    "back": "The Superior Court of Quebec is the court identified by the Divorce Act for Quebec. It hears divorce and related corollary relief matters. Municipal courts and mediators do not grant divorces."
+  },
+  {
+    "id": 168,
+    "domain": "divorce_and_family_support",
+    "front": "What habitual residence fact gives a Quebec court jurisdiction over divorce?",
+    "back": "Either spouse must have been habitually resident in Quebec for at least one year immediately before the proceeding begins. Habitual residence means the place where the spouse ordinarily lives. A temporary stay does not satisfy the rule."
+  },
+  {
+    "id": 169,
+    "domain": "divorce_and_family_support",
+    "front": "When can a Quebec court hear a corollary relief (mesures accessoires) proceeding after divorce?",
+    "back": "Jurisdiction exists when either former spouse is habitually resident in Quebec at commencement. It also exists when both former spouses accept the court's jurisdiction. Corollary relief includes parenting, child support, and spousal support claims."
+  },
+  {
+    "id": 170,
+    "domain": "divorce_and_family_support",
+    "front": "What is the territorial legal effect of a Divorce Act support or parenting order?",
+    "back": "A support, parenting time, decision making responsibility, or contact order has legal effect throughout Canada. It may be registered and enforced in another province. A variation must still follow the federal Act."
+  },
+  {
+    "id": 171,
+    "domain": "divorce_and_family_support",
+    "front": "When may a court transfer a parenting proceeding to another province?",
+    "back": "A court may transfer a parenting application when the child is habitually resident in another province. The transfer serves the child's home jurisdiction and the best forum for the parenting issue. The receiving court then has authority over the transferred matter."
+  },
+  {
+    "id": 172,
+    "domain": "divorce_and_family_support",
+    "front": "What is the only ground for divorce under the Divorce Act?",
+    "back": "The only ground is breakdown of the marriage. Breakdown must be established through statutory circumstances. General unhappiness or ordinary disagreement is not enough by itself."
+  },
+  {
+    "id": 173,
+    "domain": "divorce_and_family_support",
+    "front": "When may one year of living separate and apart support a divorce?",
+    "back": "The spouses must be living separate at commencement and for at least one year immediately before the court determines the case. A spouse may file before the year is complete. The full period must exist when the judgment is rendered."
+  },
+  {
+    "id": 174,
+    "domain": "divorce_and_family_support",
+    "front": "Can spouses living under the same roof be considered separate and apart?",
+    "back": "They can live separate lives within the same dwelling when the required intention and conduct exist. Cohabitation for no more than 90 days mainly to attempt reconciliation does not interrupt the separation period. Separate routines, finances, and living arrangements are useful evidence."
+  },
+  {
+    "id": 175,
+    "domain": "divorce_and_family_support",
+    "front": "What conduct can establish breakdown without waiting one year?",
+    "back": "Breakdown can be established by adultery or by physical or mental cruelty that makes continued cohabitation intolerable. The conduct must meet the statutory description. Ordinary conflict or one isolated disappointment does not suffice."
+  },
+  {
+    "id": 176,
+    "domain": "divorce_and_family_support",
+    "front": "What reconciliation inquiry must a divorce court ordinarily make?",
+    "back": "The court must consider whether reconciliation remains possible before deciding the evidence. The court may adjourn when reconciliation appears possible. The inquiry may be omitted when the circumstances make it clearly inappropriate."
+  },
+  {
+    "id": 177,
+    "domain": "divorce_and_family_support",
+    "front": "What must the court examine about collusion and child support before granting a divorce?",
+    "back": "The court must be satisfied that the application was not presented through collusion. It must also find reasonable arrangements for the support of any child of the marriage. The divorce may be stayed until adequate child support arrangements exist."
+  },
+  {
+    "id": 178,
+    "domain": "divorce_and_family_support",
+    "front": "When does a divorce ordinarily take effect after judgment?",
+    "back": "A divorce ordinarily takes effect on the 31st day after the judgment is rendered. Special circumstances, an appeal, or an earlier court order can change the date. The effective date should be checked before either spouse relies on the divorce."
+  },
+  {
+    "id": 179,
+    "domain": "divorce_and_family_support",
+    "front": "What is the controlling test for parenting time and decision making responsibility?",
+    "back": "The court considers only the best interests of the child. The child's physical, emotional, and psychological safety, security, and well being receive primary consideration. Parental income, filing status, or convenience do not replace that test."
+  },
+  {
+    "id": 180,
+    "domain": "divorce_and_family_support",
+    "front": "Which factors belong to the best interests of the child analysis?",
+    "back": "The court considers the child's developmental needs, stability, relationships, care history, views, heritage, care plans, and each person's ability to meet needs and cooperate. Family violence and relevant proceedings also matter. The list is not closed and must be applied to the child's actual circumstances."
+  },
+  {
+    "id": 181,
+    "domain": "divorce_and_family_support",
+    "front": "Does family violence (violence familiale) require a criminal conviction under the Divorce Act?",
+    "back": "No criminal conviction is required. Family violence includes violent or threatening conduct, coercive control, harassment, psychological abuse, financial abuse, and other listed conduct. A child's direct or indirect exposure can also count."
+  },
+  {
+    "id": 182,
+    "domain": "divorce_and_family_support",
+    "front": "Which facts about family violence does a parenting court examine?",
+    "back": "The court considers the nature, seriousness, frequency, and timing of the conduct. It examines coercive control, harm, fear, the child's exposure, safety, and any steps taken to prevent further violence. The effect on parenting and cooperation is part of the best interests analysis."
+  },
+  {
+    "id": 183,
+    "domain": "divorce_and_family_support",
+    "front": "Is equal parenting time presumed under the Divorce Act?",
+    "back": "There is no presumption of equal parenting time. The court gives the child as much time with each spouse as is consistent with the child's best interests. The evidence about the particular child controls the schedule."
+  },
+  {
+    "id": 184,
+    "domain": "divorce_and_family_support",
+    "front": "How do parenting time and decision making responsibility differ?",
+    "back": "Parenting time concerns when the child is in a person's care. Decision making responsibility concerns significant choices about health, education, culture, language, religion, spirituality, and important activities. Parenting time and responsibility may be allocated to different people or in different ways."
+  },
+  {
+    "id": 185,
+    "domain": "divorce_and_family_support",
+    "front": "What information rights follow an allocation of parenting time or decision making responsibility?",
+    "back": "A person with either allocation may ordinarily request information about the child's well being, health, and education. The information must be given subject to applicable law and any contrary court order. These rights help the person exercise the allocated role."
+  },
+  {
+    "id": 186,
+    "domain": "divorce_and_family_support",
+    "front": "What does a parenting plan do in a Divorce Act order?",
+    "back": "A parenting plan records the parties' agreed schedule, responsibilities, communication, and related arrangements. The court must include a submitted plan unless doing so would not serve the child's best interests. The court may modify an unsuitable plan before including it."
+  },
+  {
+    "id": 187,
+    "domain": "divorce_and_family_support",
+    "front": "When may a non spouse obtain a contact order for a child?",
+    "back": "A non spouse may seek contact with leave of the court. The court examines the child's best interests and all relevant factors, including whether contact can otherwise occur. The order may provide visits, communication, conditions, or supervision."
+  },
+  {
+    "id": 188,
+    "domain": "divorce_and_family_support",
+    "front": "What notice applies to a residence change that is not a relocation?",
+    "back": "A person with parenting time or decision making responsibility must notify the other entitled persons of an intended residence change. Written notice should state the expected date, new address, and contact information. This separate duty applies even when the move is not a relocation."
+  },
+  {
+    "id": 189,
+    "domain": "divorce_and_family_support",
+    "front": "What makes a move a relocation (déménagement important) under the Divorce Act?",
+    "back": "Under section 2, a relocation is a change in residence likely to significantly affect the child's relationship with a person who has parenting time, decision-making responsibility, contact under a contact order, or a pending parenting application. The significance of the impact controls, and distance and practical travel arrangements remain part of the analysis."
+  },
+  {
+    "id": 190,
+    "domain": "divorce_and_family_support",
+    "front": "What notice must ordinarily precede a relocation of a child?",
+    "back": "At least 60 days written notice must ordinarily be given to every other person with parenting time, decision making responsibility, or contact. The notice states the expected date, new address, contact information, and proposed new arrangements. The court may modify the requirement for risk or other suitable circumstances."
+  },
+  {
+    "id": 191,
+    "domain": "divorce_and_family_support",
+    "front": "Which additional factors apply when a court decides relocation?",
+    "back": "The court considers the reasons for the move, its impact on the child, and each person's current time and involvement. It also examines compliance with orders, geographical restrictions, the proposed new schedule, travel costs, and future compliance. These factors supplement the general best interests analysis."
+  },
+  {
+    "id": 192,
+    "domain": "divorce_and_family_support",
+    "front": "Who bears the relocation burden when the parents substantially share equal time?",
+    "back": "The parent who intends to relocate the child bears the burden. That parent must prove that relocation is in the child's best interests. The court still considers every relevant best interests and relocation factor."
+  },
+  {
+    "id": 193,
+    "domain": "divorce_and_family_support",
+    "front": "Who bears the relocation burden when the child lives mostly with the relocating parent?",
+    "back": "The parent who opposes relocation bears the burden. That parent must prove that relocation would not serve the child's best interests. In other time arrangements, the parties share the burden of addressing the child's interests."
+  },
+  {
+    "id": 194,
+    "domain": "divorce_and_family_support",
+    "front": "Who is a child of the marriage under the Divorce Act?",
+    "back": "The category includes a child below majority who has not withdrawn from the parents' charge. It also includes an adult child under the charge who cannot withdraw because of illness, disability, or another cause. A person standing in the place of a parent may also be within the support framework."
+  },
+  {
+    "id": 195,
+    "domain": "divorce_and_family_support",
+    "front": "Can a stepchild qualify as a child of the marriage for support?",
+    "back": "A child for whom a spouse stands in the place of a parent can qualify. The court examines the parental relationship, care, financial involvement, and the child's circumstances. Formal adoption is not the only route."
+  },
+  {
+    "id": 196,
+    "domain": "divorce_and_family_support",
+    "front": "How must a court fix child support under the Divorce Act?",
+    "back": "The court must apply the applicable child support guidelines. It may depart only through a recognized statutory mechanism and must give reasons where required. Child support is based on the child's welfare rather than a reward or penalty between parents."
+  },
+  {
+    "id": 197,
+    "domain": "divorce_and_family_support",
+    "front": "Which child support scheme ordinarily applies in a Quebec divorce?",
+    "back": "When both parents are habitually resident in Quebec, the designated Quebec child support scheme ordinarily governs the amount. If the parents are not both resident in the same designated province, the Federal Child Support Guidelines normally apply. Residence facts must therefore be established at the application date."
+  },
+  {
+    "id": 198,
+    "domain": "divorce_and_family_support",
+    "front": "What is the basic table approach under the Federal Child Support Guidelines?",
+    "back": "The presumptive amount comes from the table for the paying parent's province, income, and number of children. The table is only the starting point. Special expenses, shared parenting, split parenting, undue hardship, and high income may require further analysis."
+  },
+  {
+    "id": 199,
+    "domain": "divorce_and_family_support",
+    "front": "Which costs may qualify as special or extraordinary child support expenses?",
+    "back": "The federal categories include qualifying childcare, attributable medical and dental insurance, certain health costs, educational costs, postsecondary education, and extraordinary activities. The court considers the child's best interests, necessity, reasonableness, the parents' means, and the family's prior spending. Ordinary household expenses are not automatically included."
+  },
+  {
+    "id": 200,
+    "domain": "divorce_and_family_support",
+    "front": "How are qualifying special expenses normally divided between parents?",
+    "back": "The guiding principle is sharing in proportion to the parents' respective incomes. The court first considers the child's contribution and relevant subsidies, benefits, and tax effects. The result may be adjusted according to the statutory factors."
+  },
+  {
+    "id": 201,
+    "domain": "divorce_and_family_support",
+    "front": "When does federal shared parenting time apply?",
+    "back": "Shared parenting applies when each spouse exercises at least 40 percent of the child's parenting time over a year. The court considers both table amounts, the increased costs of shared arrangements, and each household's circumstances. It does not simply order one unadjusted table amount."
+  },
+  {
+    "id": 202,
+    "domain": "divorce_and_family_support",
+    "front": "How does split parenting differ from shared parenting?",
+    "back": "Split parenting normally involves two or more children with different majority time households. The court compares the table amount each household would otherwise pay and offsets them. Shared parenting concerns the same child spending at least 40 percent of time with each parent."
+  },
+  {
+    "id": 203,
+    "domain": "divorce_and_family_support",
+    "front": "What is the undue hardship route under the Federal Child Support Guidelines?",
+    "back": "The court may depart from the usual amount when the table result would cause undue hardship to a spouse or child. Qualifying examples include unusually high parenting travel costs or reasonable family debts. The claimant must prove the hardship and provide the required comparison evidence."
+  },
+  {
+    "id": 204,
+    "domain": "divorce_and_family_support",
+    "front": "How do the federal guidelines address a payor earning above 150,000 dollars?",
+    "back": "The court may use the table amount or determine that the table is inappropriate. In that case it considers the table for the first 150,000 dollars and an appropriate amount for the excess. The child's circumstances and both parents' means remain relevant."
+  },
+  {
+    "id": 205,
+    "domain": "divorce_and_family_support",
+    "front": "When may a court impute income for child support?",
+    "back": "The court may impute income when the reported figure does not fairly reflect available resources. Examples include intentional underemployment, diverted income, unreasonable expense deductions, and failure to disclose income. The court chooses an amount appropriate to the evidence."
+  },
+  {
+    "id": 206,
+    "domain": "divorce_and_family_support",
+    "front": "How do the federal guidelines treat a dependent adult child?",
+    "back": "The court may apply the ordinary guideline approach as if the child were younger. If that approach is inappropriate, it may set an amount based on the adult child's condition, means, needs, and other circumstances. The parents' financial ability to contribute also matters."
+  },
+  {
+    "id": 207,
+    "domain": "divorce_and_family_support",
+    "front": "What income disclosure must support a federal child support application?",
+    "back": "The applicant must provide recent tax returns, notices of assessment and reassessment, and current income evidence. Self employed, corporate, partnership, trust, and benefit income may require additional documents. Missing disclosure can lead to costs, imputed income, or another adverse result."
+  },
+  {
+    "id": 208,
+    "domain": "divorce_and_family_support",
+    "front": "What continuing income disclosure duty follows a federal child support order?",
+    "back": "Either spouse may ordinarily request updated income documents once each year while the child qualifies. The request should include the requesting spouse's own relevant information when required. Failure to comply can support a court order and costs."
+  },
+  {
+    "id": 209,
+    "domain": "divorce_and_family_support",
+    "front": "What must be shown to vary a child support order under the Divorce Act?",
+    "back": "The applicant must show a change of circumstances under the applicable guidelines. The change may involve income, the child's needs, parenting arrangements, or another recognized factor. A later raise does not alter the order automatically."
+  },
+  {
+    "id": 210,
+    "domain": "divorce_and_family_support",
+    "front": "What must be shown to vary a spousal support order?",
+    "back": "The applicant must establish a change in either former spouse's condition, means, needs, or other circumstances. The court considers that change when setting the varied amount or duration. Dissatisfaction with the original order is not enough."
+  },
+  {
+    "id": 211,
+    "domain": "divorce_and_family_support",
+    "front": "What must be shown to vary a parenting order?",
+    "back": "The applicant must establish a change in the child's circumstances since the order or last variation. Relocation is deemed a change, but a relocation already prohibited is not automatically a change. The varied arrangement must still serve the child's best interests."
+  },
+  {
+    "id": 212,
+    "domain": "divorce_and_family_support",
+    "front": "How does a prohibited relocation affect a later parenting variation?",
+    "back": "The prohibited relocation is not by itself a change of circumstances. The court still examines the child's actual situation and any separate material change. An unauthorized move therefore does not automatically justify a new order."
+  },
+  {
+    "id": 213,
+    "domain": "divorce_and_family_support",
+    "front": "Which support obligation has priority when child and spousal support conflict?",
+    "back": "Child support has priority when both requests are considered. If priority prevents or reduces a spousal order, the court must record reasons. A later reduction of child support can become a change supporting a spousal variation."
+  },
+  {
+    "id": 214,
+    "domain": "divorce_and_family_support",
+    "front": "Which factors guide a spousal support order under the Divorce Act?",
+    "back": "The court examines each spouse's condition, means, needs, and other circumstances. It considers cohabitation length, the functions performed during the relationship, and existing support arrangements. Misconduct in relation to the marriage is not a statutory factor."
+  },
+  {
+    "id": 215,
+    "domain": "divorce_and_family_support",
+    "front": "Which objectives guide a spousal support order?",
+    "back": "The order should recognize economic advantages or disadvantages arising from the marriage or its breakdown. It should share child care consequences, relieve economic hardship, and promote reasonable self sufficiency where practicable. The court chooses an amount and duration that advance these objectives."
+  },
+  {
+    "id": 216,
+    "domain": "successions",
+    "front": "When and where does a succession (succession) open?",
+    "back": "A person's succession opens at death at the place of the person's last domicile. The property then devolves by law unless a valid will provides otherwise. The opening date fixes the time at which heirs and legatees are identified."
+  },
+  {
+    "id": 217,
+    "domain": "successions",
+    "front": "Can a child conceived but not yet born inherit?",
+    "back": "A conceived child may inherit if the child is born alive and viable. The child is treated as existing for a benefit that requires that result. If those conditions are not met, the child does not take the succession share."
+  },
+  {
+    "id": 218,
+    "domain": "successions",
+    "front": "Which persons are automatically unworthy of inheriting?",
+    "back": "A person convicted of attempting the deceased's life is automatically unworthy. A person deprived of parental authority over a child, with that child exempted from support, is also unworthy of inheriting that child's succession. These consequences apply by operation of law."
+  },
+  {
+    "id": 219,
+    "domain": "successions",
+    "front": "Which conduct may lead a court to declare an heir unworthy?",
+    "back": "A court may declare unworthiness after serious ill treatment or another seriously reprehensible act toward the deceased. Bad faith concealment, alteration, or destruction of the will may also support the declaration. Hindering the testator's will making, amendment, or revocation is another ground."
+  },
+  {
+    "id": 220,
+    "domain": "successions",
+    "front": "When are heirs seized of the deceased's patrimony?",
+    "back": "Heirs are seized by the deceased's death, subject to the liquidation rules. The liquidator exercises that seisin during liquidation. Final delivery of the remaining property occurs through the liquidation and partition process."
+  },
+  {
+    "id": 221,
+    "domain": "successions",
+    "front": "What choice does a successor have concerning a succession?",
+    "back": "A successor may accept or renounce the succession. The option is indivisible for each transmission, although a person called through several separate transmissions has a separate option for each. The choice produces important liability and ownership consequences."
+  },
+  {
+    "id": 222,
+    "domain": "successions",
+    "front": "How long does a successor ordinarily have to deliberate about accepting or renouncing?",
+    "back": "The successor ordinarily has six months from the day the right arises to deliberate and exercise the option. The period is extended as needed to provide 60 days after closure of the inventory. A court may extend the deliberation period."
+  },
+  {
+    "id": 223,
+    "domain": "successions",
+    "front": "How may a successor accept a succession?",
+    "back": "Acceptance may be express, tacit, or result from law. Express acceptance occurs when the successor formally assumes the title of heir. Tacit acceptance occurs through an act that necessarily shows the intention to accept."
+  },
+  {
+    "id": 224,
+    "domain": "successions",
+    "front": "Does accepting a succession make an heir personally liable for every estate debt?",
+    "back": "Heirs are generally liable for succession obligations only up to the value of the property they take. Exceptions can arise when a successor causes losses through prohibited conduct or assumes broader liability. Safe liquidation and inventory procedures protect the limited liability principle."
+  },
+  {
+    "id": 225,
+    "domain": "successions",
+    "front": "What form is required for an express renunciation of a succession?",
+    "back": "Express renunciation must be made by notarial act in the notary's minute book or by a recorded judicial declaration. It must occur before the successor performs an act that amounts to acceptance. A final judgment against the person as an heir can also prevent later renunciation."
+  },
+  {
+    "id": 226,
+    "domain": "successions",
+    "front": "What is the effect of a valid renunciation of a succession?",
+    "back": "A person who renounces is deemed never to have been a successor. The renunciation removes the person's share and related liability from that transmission. Creditors may still challenge a renunciation that prejudices their rights."
+  },
+  {
+    "id": 227,
+    "domain": "successions",
+    "front": "Can a successor later reverse a valid renunciation?",
+    "back": "A successor who renounced may accept the succession for 10 years from the day the right arose if no other person has accepted it. Acceptance is then made by notarial act or recorded judicial declaration. The succession is taken in its condition at that later time."
+  },
+  {
+    "id": 228,
+    "domain": "successions",
+    "front": "When may creditors challenge a successor's renunciation?",
+    "back": "Creditors whose rights are prejudiced may apply within one year for a declaration that the renunciation cannot be set up against them. They may then accept the succession in the debtor's place. Their acceptance has effect only for their claims and only up to the amount owed."
+  },
+  {
+    "id": 229,
+    "domain": "successions",
+    "front": "How does an intestate succession divide between a surviving spouse and descendants?",
+    "back": "The surviving spouse receives one third of the succession. The descendants receive the other two thirds, subject to representation and sharing rules. These shares apply when the deceased leaves both a spouse and descendants."
+  },
+  {
+    "id": 230,
+    "domain": "successions",
+    "front": "Who inherits when the deceased leaves descendants but no spouse?",
+    "back": "The entire intestate succession devolves to the descendants. They share according to degree and representation. A closer descendant normally excludes more distant descendants unless representation applies."
+  },
+  {
+    "id": 231,
+    "domain": "successions",
+    "front": "How does the intestate succession divide when there are no descendants?",
+    "back": "The surviving spouse receives two thirds and the privileged ascendants receive one third when no descendants exist. If there are no privileged ascendants, the spouse receives two thirds and privileged collaterals receive one third. Different rules apply when no spouse exists."
+  },
+  {
+    "id": 232,
+    "domain": "successions",
+    "front": "Who are privileged ascendants and privileged collaterals?",
+    "back": "The deceased's father, mother, or parents are privileged ascendants. Brothers and sisters and their children in the first degree are privileged collaterals. They rank ahead of ordinary ascendants and collaterals."
+  },
+  {
+    "id": 233,
+    "domain": "successions",
+    "front": "How does representation operate in a succession?",
+    "back": "Representation lets a relative take the share that an ascendant would have taken but cannot take because of earlier death, simultaneous death, or unworthiness. The representative steps into the represented person's place. Partition is then made by roots rather than simply by individual heads."
+  },
+  {
+    "id": 234,
+    "domain": "successions",
+    "front": "What are the core legal features of a will (testament)?",
+    "back": "A will is a unilateral and revocable juridical act disposing of property or liquidation matters after death. It must use a form recognized by law. Two or more persons cannot make one joint will."
+  },
+  {
+    "id": 235,
+    "domain": "successions",
+    "front": "At what time must testamentary capacity exist?",
+    "back": "Capacity is assessed at the time the will is made. Later incapacity does not by itself invalidate an earlier valid will. Later capacity does not automatically validate a will made while capacity was lacking."
+  },
+  {
+    "id": 236,
+    "domain": "successions",
+    "front": "What property may a minor dispose of by will?",
+    "back": "A minor may generally dispose by will only of property of little value. Other property requires the legal capacity rules to be satisfied. A tutor or mandatary cannot make a will for the represented person."
+  },
+  {
+    "id": 237,
+    "domain": "successions",
+    "front": "Which forms of will are recognized in Quebec?",
+    "back": "The recognized forms are the notarial will, the holograph will, and the will made in the presence of witnesses. Each form has specific formal requirements. Failure to follow the chosen form may invalidate the will."
+  },
+  {
+    "id": 238,
+    "domain": "successions",
+    "front": "What makes a holograph will valid?",
+    "back": "The testator must write the entire will personally and sign it. Technical means cannot be used for the writing. No other formal requirement applies to this form."
+  },
+  {
+    "id": 239,
+    "domain": "successions",
+    "front": "How is a will made in the presence of witnesses completed?",
+    "back": "The testator or another person writes the will. The testator declares before two witnesses of full age that the document is the will, signs it, and the witnesses sign in the testator's presence. The testator need not reveal the will's contents."
+  },
+  {
+    "id": 240,
+    "domain": "successions",
+    "front": "What formal steps characterize a notarial will?",
+    "back": "The notary executes the will in the notary's minute book with the required witness or witnesses. The notary reads the will and the testator declares that it expresses the last wishes. The testator and witnesses sign with the notary in each other's presence."
+  },
+  {
+    "id": 241,
+    "domain": "successions",
+    "front": "Can a will that fails one form still be valid in another form?",
+    "back": "A will that does not satisfy its chosen form may be valid under another recognized form when the requirements of that other form are met. A holograph or witnessed will may also be saved in limited circumstances when it clearly and unequivocally expresses the deceased's wishes. The defect and evidence must be analysed carefully."
+  },
+  {
+    "id": 242,
+    "domain": "successions",
+    "front": "How may a will or legacy be revoked?",
+    "back": "Revocation may be express or tacit. A later will may expressly revoke an earlier one or create an inconsistent provision. Destruction or erasure can also revoke when the required intention is established."
+  },
+  {
+    "id": 243,
+    "domain": "successions",
+    "front": "What happens to a legacy to a former spouse after divorce or civil union dissolution?",
+    "back": "A legacy made to the spouse before divorce or dissolution is revoked unless the testator clearly intended the gift to continue. The designation of that spouse as liquidator is also revoked. A contrary intention must appear in testamentary provisions."
+  },
+  {
+    "id": 244,
+    "domain": "successions",
+    "front": "What effect does a later inconsistent testamentary provision have?",
+    "back": "It tacitly revokes the earlier provision to the extent of the inconsistency. The revocation remains effective even if the later provision later lapses. A revoked original provision does not revive unless the testator intended that result."
+  },
+  {
+    "id": 245,
+    "domain": "successions",
+    "front": "What are the three kinds of legacies?",
+    "back": "A universal legacy takes the entire succession. A legacy by general title takes an aliquot share, a dismemberment, or all or part of a defined class of property. Every other legacy is a particular legacy."
+  },
+  {
+    "id": 246,
+    "domain": "successions",
+    "front": "What is the status of a legatee by particular title?",
+    "back": "A particular legatee who accepts is not an heir but is seized of the bequeathed property. The legatee is liable for estate debts on that property only if the succession's other property is insufficient. Liability is then limited to the value of the property received."
+  },
+  {
+    "id": 247,
+    "domain": "successions",
+    "front": "What core tasks does the liquidator (liquidateur) perform?",
+    "back": "The liquidator identifies and calls the successors, establishes the succession's content, collects claims, and pays debts and particular legacies. The liquidator administers the property, renders accounts, and delivers the remaining property after liquidation. The role requires loyalty and careful separation of personal and estate interests."
+  },
+  {
+    "id": 248,
+    "domain": "successions",
+    "front": "Why must the liquidator make an inventory of the succession?",
+    "back": "The inventory identifies the estate's assets, debts, and property so that liquidation proceeds accurately. Its closure is published and communicated to interested persons. Missing or defective inventory procedures can expose heirs to broader liability."
+  },
+  {
+    "id": 249,
+    "domain": "successions",
+    "front": "What happens when estate property is insufficient to pay all debts and particular legacies?",
+    "back": "The liquidator follows the statutory payment order and prepares a payment proposal when required. Particular legacies may be reduced or their property alienated according to the priority rules. Preferences and certain determinate property can affect the order of reduction."
+  },
+  {
+    "id": 250,
+    "domain": "successions",
+    "front": "What preferential right may a surviving spouse have concerning the family residence and household movables?",
+    "back": "The surviving spouse may require that the family residence or its use rights and household movables be placed in the spouse's succession share. This preference applies ahead of other heirs when the statutory conditions are met. If the property exceeds the spouse's share, the spouse pays an equalizing sum."
+  },
+  {
+    "id": 251,
+    "domain": "successions",
+    "front": "What rule guides interpretation of an ambiguous testamentary provision?",
+    "back": "The court seeks the testator's true intention rather than applying a rigid literal meaning. The words, context, circumstances, and the will as a whole may be considered. Clear lawful instructions control the property disposition."
+  },
+  {
+    "id": 252,
+    "domain": "successions",
+    "front": "How is an impossible or unlawful condition in a will treated?",
+    "back": "A condition that is impossible or contrary to public order is treated as not written. The remaining valid parts of the will may continue to operate. The result must still respect the testator's lawful intention."
+  },
+  {
+    "id": 253,
+    "domain": "successions",
+    "front": "Is a legacy to the notary who made the will or to a witness valid?",
+    "back": "A legacy to the notary who executes the will, the notary's spouse, an immediate relative, or a witness is without effect. This rule protects the will process from conflicts of interest. The invalidity of that legacy does not invalidate the rest of the will."
+  },
+  {
+    "id": 254,
+    "domain": "successions",
+    "front": "What happens when a will leaves property that belongs to someone else?",
+    "back": "A legacy of another person's property is normally without effect. It may create an obligation for the heir only when the will shows that the testator intended the heir to obtain that property for the legatee. Otherwise, the testator cannot give what is not owned."
+  },
+  {
+    "id": 255,
+    "domain": "successions",
+    "front": "How are holograph and witnessed wills made enforceable after death?",
+    "back": "These wills must be probated through the procedure in the Code of Civil Procedure. Interested persons may establish the will's origin and regularity. A notarial will does not require the same probate step because it is executed in a notary's minute book."
+  },
+  {
+    "id": 256,
+    "domain": "successions",
+    "front": "How may a lost or unavailable will be proved?",
+    "back": "A will that cannot be produced may be reconstituted through proceedings involving the heirs and other interested successors. Testimonial proof is possible when the will was lost, destroyed, or held by another without the claimant's collusion. The proof of contents, origin, and regularity must be conclusive and unequivocal."
+  },
+  {
+    "id": 257,
+    "domain": "successions",
+    "front": "Why is the deceased's patrimony kept separate during liquidation?",
+    "back": "The succession patrimony remains separate from each heir's personal patrimony until liquidation ends. This separation protects both succession creditors and the heir's own creditors. Estate property is used first for estate debts and particular legacies."
+  },
+  {
+    "id": 258,
+    "domain": "successions",
+    "front": "How is the liquidator of a succession selected?",
+    "back": "The testator may designate one or more liquidators and provide for replacement. Without a designation, the office ordinarily devolves to the heirs, who may choose a liquidator. A court may appoint or replace a liquidator when agreement is impossible or the job cannot be filled."
+  },
+  {
+    "id": 259,
+    "domain": "successions",
+    "front": "What must a liquidator include in the inventory of a succession?",
+    "back": "The inventory identifies the estate's property, claims, and debts so that liquidation can be conducted accurately. Its closure is published and brought to the attention of interested persons. Missing or improper inventory steps can expose heirs to liability beyond the property they receive."
+  },
+  {
+    "id": 260,
+    "domain": "successions",
+    "front": "What standard of administration applies to the liquidator?",
+    "back": "The liquidator administers the succession as an administrator of another person's property charged with simple administration. The liquidator must preserve the property and act prudently while realizing assets needed for debts and legacies. Personal interests cannot override the estate's interests."
+  },
+  {
+    "id": 261,
+    "domain": "successions",
+    "front": "When must a liquidator provide an annual management account?",
+    "back": "If liquidation lasts longer than one year, the liquidator must account at the end of the first year and at least once each year afterward. The account is owed to unpaid heirs, creditors, and particular legatees. This duty keeps long administrations transparent."
+  },
+  {
+    "id": 262,
+    "domain": "successions",
+    "front": "What payment order applies when estate property is insufficient to pay all claims?",
+    "back": "The liquidator first honours prior or hypothecary creditors according to rank. Ordinary creditors then share in proportion to their claims, subject to the separate treatment of support claims. Particular legatees are paid only after the creditors in the prescribed order."
+  },
+  {
+    "id": 263,
+    "domain": "successions",
+    "front": "Where do support claims rank when a succession is insolvent?",
+    "back": "The liquidator follows the payment proposal and handles prior and ordinary creditors first. Claims for support are then paid before particular legatees receive their gifts. If the remaining assets are insufficient, support creditors share in proportion to their claims."
+  },
+  {
+    "id": 264,
+    "domain": "successions",
+    "front": "How are particular legacies reduced when the estate cannot pay all debts?",
+    "back": "The liquidator may alienate or reduce particular legacies if other estate property cannot satisfy the debts. The reduction follows the statutory priorities, preference clauses, and the distinction between general and specifically designated property. Legatees may also agree to another settlement or return their benefits."
+  },
+  {
+    "id": 265,
+    "domain": "successions",
+    "front": "When does liquidation end and when may partition occur?",
+    "back": "Liquidation ends when known creditors and particular legatees are paid or their claims are otherwise settled, or when the assets are exhausted. The liquidator then renders a final account and is discharged. Partition may not occur before liquidation terminates."
+  },
+  {
+    "id": 266,
+    "domain": "successions",
+    "front": "May a testator postpone partition of the succession?",
+    "back": "The testator may postpone partition wholly or partly for a limited time for a serious and legitimate reason. The will may also extend the liquidator's role when necessary to carry out the testator's intentions. An indefinite obstruction of the heirs' rights is not the rule."
+  },
+  {
+    "id": 267,
+    "domain": "successions",
+    "front": "When may indivision of a family enterprise be maintained after death?",
+    "back": "Indivision may be maintained for a family enterprise operated by the deceased or for connected shares or securities. The court considers the will, the interested persons' needs and livelihoods, and relevant enterprise agreements. This prevents a forced breakup that would harm the family's economic base."
+  },
+  {
+    "id": 268,
+    "domain": "successions",
+    "front": "When may indivision of the family residence be maintained during a succession?",
+    "back": "Indivision may be maintained over the family residence and household movables, including where the surviving spouse receives ownership or use rights. An heir who lived there or participated in the enterprise may seek the measure when the conditions are met. The court fixes conditions and duration."
+  },
+  {
+    "id": 269,
+    "domain": "successions",
+    "front": "How are shares composed when succession property cannot be divided conveniently?",
+    "back": "The co-partitioners avoid parcelling immovables or dividing an enterprise where possible. Each share should receive an equivalent mix of property and rights, and inequality is corrected by an equalizing sum. The property is valued according to its condition and value at partition."
+  },
+  {
+    "id": 270,
+    "domain": "successions",
+    "front": "Who receives preferential allotment of the family enterprise during partition?",
+    "back": "The enterprise or connected shares may be allotted by preference to the heir who actively participated in its operation when the deceased died. This preference responds to continuing involvement and business continuity. Conflicting preferences may be resolved according to the statutory procedure."
+  },
+  {
+    "id": 271,
+    "domain": "successions",
+    "front": "Must an heir return every gift received from the deceased during partition?",
+    "back": "An heir must return a gift or legacy only when the act expressly requires return at partition. A successor who validly renounces the succession is not required to make that return. The rule prevents automatic return of every lifetime benefit."
+  },
+  {
+    "id": 272,
+    "domain": "successions",
+    "front": "Must an heir account for a debt owed to the deceased?",
+    "back": "An heir entering partition must return the debt owed to the deceased and any amount owed because of indivision. The debt is returned through the mechanism of taking less from the succession. If the debt exceeds the heir's share, the heir remains liable for the excess."
+  },
+  {
+    "id": 273,
+    "domain": "successions",
+    "front": "What is the declaratory effect of partition?",
+    "back": "Partition declares ownership rather than creating it from the date of division. Each co-partitioner is deemed to have owned the allotted property directly since the death. The co-partitioner is deemed never to have owned the property assigned to someone else."
+  },
+  {
+    "id": 274,
+    "domain": "successions",
+    "front": "For what disturbances do co-partitioners warrant each other?",
+    "back": "Co-partitioners are generally warrantors for disturbance or eviction arising from a cause existing before partition. A co-partitioner also remains liable for disturbance caused by that person's own acts or omissions. The warranty supports the stability of the division."
+  },
+  {
+    "id": 275,
+    "domain": "successions",
+    "front": "What happens when a partition accidentally omits succession property?",
+    "back": "Mere omission of undivided property ordinarily leads to a supplementary partition rather than annulment of the whole partition. Nullity remains available for contract defects or other serious grounds. A corrective partition may be preferred when it protects the co-partitioners' interests."
+  },
+  {
+    "id": 276,
+    "domain": "property",
+    "front": "How is property classified in Quebec law?",
+    "back": "Property may be corporeal or incorporeal. It is also either immovable or movable. The classification affects publication, possession, hypothecs, and available remedies."
+  },
+  {
+    "id": 277,
+    "domain": "property",
+    "front": "What legal status do animals have under the Civil Code?",
+    "back": "Animals are not things and are recognized as sentient beings with biological needs. The rules governing property nevertheless apply to them when no special rule says otherwise. Animal welfare laws can add further protections."
+  },
+  {
+    "id": 278,
+    "domain": "property",
+    "front": "Which items are immovables by nature?",
+    "back": "Land and permanent constructions or works located on it are immovables. Anything forming an integral part of the land or construction is also an immovable. Plants and minerals remain immovables while unseparated, but fruits and other soil products may be treated as movables when disposed of."
+  },
+  {
+    "id": 279,
+    "domain": "property",
+    "front": "When does a movable become part of an immovable by incorporation?",
+    "back": "A movable incorporated into an immovable becomes an integral part when it loses its individuality and serves the immovable's utility. Ownership then follows the immovable under accession. Temporary attachment can produce a different result."
+  },
+  {
+    "id": 280,
+    "domain": "property",
+    "front": "How are real rights concerning immovables classified?",
+    "back": "Real rights in immovables are themselves immovables in the classification system. Actions to assert those rights or obtain possession are also treated as immovables. This classification affects jurisdiction and publication."
+  },
+  {
+    "id": 281,
+    "domain": "property",
+    "front": "How is captured or harnessed energy classified?",
+    "back": "Waves or energy harnessed and put to use by a person are corporeal movables. Their source may be movable or immovable without changing that result. This allows energy to be treated as identifiable property."
+  },
+  {
+    "id": 282,
+    "domain": "property",
+    "front": "What is the difference between capital and fruits or revenues?",
+    "back": "Capital is the property used to produce value, such as a building or investment shares. Fruits are what property produces without altering its substance, while revenues are sums yielded by its use. The distinction matters for usufruct, matrimonial regimes, and succession."
+  },
+  {
+    "id": 283,
+    "domain": "property",
+    "front": "Which things count as fruits or revenues of property?",
+    "back": "Fruits include crops, the increase of animals, and products obtained through cultivation or working land. Revenues include rent, interest, and dividends derived from the use of capital. Certain capital distributions are not treated as revenues."
+  },
+  {
+    "id": 284,
+    "domain": "property",
+    "front": "What powers does ownership include?",
+    "back": "Ownership includes the right to use, enjoy, and dispose of property fully and freely. These powers remain subject to limits and conditions imposed by law. Ownership may exist in full or through dismemberments."
+  },
+  {
+    "id": 285,
+    "domain": "property",
+    "front": "What is the right of accession?",
+    "back": "Accession gives the owner a right to what property produces and to what becomes united to it naturally or artificially. The right arises from the time of the union or production. It applies to both immovable and movable property."
+  },
+  {
+    "id": 286,
+    "domain": "property",
+    "front": "Can an owner be forced to give up ownership without consent?",
+    "back": "Expropriation may compel transfer only when authorized by law for public utility. Just and prior indemnity is required. Private agreement or ordinary contractual remedies are otherwise required."
+  },
+  {
+    "id": 287,
+    "domain": "property",
+    "front": "What is the owner's right to revendicate property?",
+    "back": "The owner may claim the property from a possessor or detainer who holds it without right. The owner may also object to unauthorized encroachment or use. Revendication protects ownership against unlawful detention."
+  },
+  {
+    "id": 288,
+    "domain": "property",
+    "front": "How does possession differ from ownership?",
+    "back": "Ownership is a legal right, while possession is the factual exercise of powers over property. A possessor may act like an owner without yet holding valid title. Possession can lead to rights, but it does not automatically prove ownership."
+  },
+  {
+    "id": 289,
+    "domain": "property",
+    "front": "Which qualities must possession have to support acquisitive prescription?",
+    "back": "Prescriptive possession must be continuous and uninterrupted. It must also be peaceful, public, and unequivocal. A hidden, equivocal, or violently imposed possession does not satisfy the rule."
+  },
+  {
+    "id": 290,
+    "domain": "property",
+    "front": "What is the general period for acquiring ownership of an immovable by prescription?",
+    "back": "The general period for acquisitive prescription is 10 years. A person who has possessed an immovable as owner for 10 years must still obtain ownership through a judicial application. The possession must satisfy the required qualities."
+  },
+  {
+    "id": 291,
+    "domain": "property",
+    "front": "When may a good faith possessor acquire ownership of movable property by prescription?",
+    "back": "A good faith possessor of movable property acquires ownership after three years running from the owner's dispossession. Until then, the owner may revendicate the property unless it was acquired under judicial authority. Good faith is assessed under the statutory acquisition rule."
+  },
+  {
+    "id": 292,
+    "domain": "property",
+    "front": "How is good faith assessed for a subsequent acquirer who relies on prescription?",
+    "back": "A subsequent acquirer generally needs good faith only at the time of acquisition. Later knowledge does not by itself defeat that good faith for prescription. The same approach can apply to each previous acquirer when possession is joined."
+  },
+  {
+    "id": 293,
+    "domain": "property",
+    "front": "Which legal events can transfer or create ownership?",
+    "back": "Ownership may be acquired by contract, succession, occupation, prescription, or accession. Other statutory modes may also apply. The event must satisfy its own legal requirements."
+  },
+  {
+    "id": 294,
+    "domain": "property",
+    "front": "What is ownership in indivision?",
+    "back": "Indivision is ownership of one property by several persons whose shares are undivided. It may arise from contract, succession, judgment, or law. Each co-owner holds a share rather than a physically separate piece."
+  },
+  {
+    "id": 295,
+    "domain": "property",
+    "front": "Are shares in indivision presumed equal?",
+    "back": "Co-owners' shares are presumed equal unless another proportion is established. Each co-owner may alienate or hypothecate the share. Creditors may seize an individual undivided share."
+  },
+  {
+    "id": 296,
+    "domain": "property",
+    "front": "What use may a co-owner make of undivided property?",
+    "back": "A co-owner may use the property if the use does not change its destination or harm the rights of others. Exclusive use and enjoyment of the property creates an indemnity obligation. Every co-owner must respect the common purpose."
+  },
+  {
+    "id": 297,
+    "domain": "property",
+    "front": "To whom do fruits and revenues from undivided property belong?",
+    "back": "Fruits and revenues normally accrue to the indivision when there is no provisional partition or distribution agreement. They also accrue to the indivision if nobody claims them within three years after they become due. Co-owners then benefit according to their shares."
+  },
+  {
+    "id": 298,
+    "domain": "property",
+    "front": "How are common charges of undivided property shared?",
+    "back": "Co-owners contribute to administration costs and other common charges in proportion to their shares. Necessary preservation expenses may be reimbursed. Losses caused by one co-owner's act or omission are that co-owner's responsibility."
+  },
+  {
+    "id": 299,
+    "domain": "property",
+    "front": "Can a co-owner be forced to remain in indivision indefinitely?",
+    "back": "No one is bound to remain in indivision indefinitely. Partition may be demanded unless postponed by agreement, will, judgment, law, or a lasting purpose. A court may briefly postpone partition to avoid a loss."
+  },
+  {
+    "id": 300,
+    "domain": "property",
+    "front": "How long may co-owners agree to postpone partition?",
+    "back": "A written agreement may postpone partition of indivision for no more than 30 years. The agreement is renewable, and an excessive term is reduced to 30 years. Publication may be required to set an agreement about an immovable against third persons."
+  },
+  {
+    "id": 301,
+    "domain": "property",
+    "front": "Can a co-owner exclude a third person who buys another co-owner's share?",
+    "back": "A co-owner may ordinarily reimburse a third person who acquired a share by onerous title and exclude that person from the indivision. The right must be exercised within the statutory time limits after learning of the acquisition. The reimbursement covers the transfer price and expenses."
+  },
+  {
+    "id": 302,
+    "domain": "property",
+    "front": "What is divided co-ownership of an immovable?",
+    "back": "Divided co-ownership arises from a published declaration that divides ownership into fractions. Each fraction includes a private portion and an undivided share of the common portions. The co-owners as a body form a syndicate."
+  },
+  {
+    "id": 303,
+    "domain": "property",
+    "front": "What main role does a syndicate perform in divided co-ownership?",
+    "back": "The syndicate is the legal person formed by the co-owners. It preserves the immovable and administers the common portions and common interests. It may carry out necessary maintenance and exercise collective rights."
+  },
+  {
+    "id": 304,
+    "domain": "property",
+    "front": "How do private and common portions differ in divided co-ownership?",
+    "back": "A private portion belongs to one co-owner for exclusive use. A common portion belongs to all co-owners and serves their common use, even if only some co-owners use it. The share of common portions is tied to the relative value of the fraction."
+  },
+  {
+    "id": 305,
+    "domain": "property",
+    "front": "Can a divided co-owner sell the share of common portions separately?",
+    "back": "The undivided share of common portions is attached to the private portion. It cannot be sold or partitioned separately from that fraction. A transfer of the fraction carries the related common share."
+  },
+  {
+    "id": 306,
+    "domain": "property",
+    "front": "What is usufruct (usufruit)?",
+    "back": "Usufruct is the right to use and enjoy another person's property as one's own for a certain time. The usufructuary must preserve the property's substance. The owner retains bare ownership."
+  },
+  {
+    "id": 307,
+    "domain": "property",
+    "front": "How long may a usufruct last?",
+    "back": "A usufruct cannot last more than 100 years even if the granting act provides a longer term. If no term is stated, it lasts for the usufructuary's life or 30 years for a legal person. Successive usufructs remain subject to the overall limit."
+  },
+  {
+    "id": 308,
+    "domain": "property",
+    "front": "What income rights does a usufructuary have?",
+    "back": "The usufructuary takes the fruits and revenues produced by the property during the usufruct. Revenues are generally counted day by day, while certain dividends depend on declaration. The right ends when the usufruct terminates."
+  },
+  {
+    "id": 309,
+    "domain": "property",
+    "front": "What happens if the bare owner sells property subject to usufruct?",
+    "back": "The bare owner may transfer bare ownership, but the sale does not extinguish the usufructuary's right. The purchaser takes the property subject to the published usufruct. The usufructuary may continue exercising the right."
+  },
+  {
+    "id": 310,
+    "domain": "property",
+    "front": "What is a right of use (droit d'usage)?",
+    "back": "The holder may temporarily use another person's property and take its fruits and revenues according to personal needs. The right is more limited than usufruct and serves the user and dependants. Assignment or seizure requires permission or authorization under the Code."
+  },
+  {
+    "id": 311,
+    "domain": "property",
+    "front": "What is a servitude (servitude)?",
+    "back": "A servitude is a charge on a servient immovable for the benefit of a dominant immovable owned by someone else. It requires the servient owner to tolerate use or abstain from certain acts. The burden must serve the dominant land rather than an unrelated personal preference."
+  },
+  {
+    "id": 312,
+    "domain": "property",
+    "front": "How do dominant and servient land interact in a servitude?",
+    "back": "The dominant land receives the benefit, while the servient land bears the charge. The two immovables must belong to different owners. The servitude extends to what is necessary for its exercise."
+  },
+  {
+    "id": 313,
+    "domain": "property",
+    "front": "How may a servitude be established?",
+    "back": "A servitude may be established by contract, will, destination of the owner, or operation of law. It cannot be established without title, and possession alone is insufficient. The act establishing the servitude should define its nature and scope."
+  },
+  {
+    "id": 314,
+    "domain": "property",
+    "front": "Does transfer of ownership end a servitude?",
+    "back": "A servitude remains attached to the dominant and servient immovables when ownership changes. It continues through transfers, subject to the publication rules. A personal arrangement that does not burden or benefit land is not a true servitude."
+  },
+  {
+    "id": 315,
+    "domain": "property",
+    "front": "What limits apply to changing the exercise of a servitude?",
+    "back": "The dominant owner cannot make changes that aggravate the servient land's situation. The servient owner cannot act in a way that diminishes or makes the servitude less convenient. The servient owner may sometimes relocate the exercise at their own cost without making it less convenient."
+  },
+  {
+    "id": 316,
+    "domain": "property",
+    "front": "What is superficies?",
+    "back": "Superficies separates ownership of constructions, works, or plantations from ownership of the subsoil. It may arise from division of the ownership subject, transfer of accession, or renunciation of accession. The arrangement may be perpetual or limited by its terms."
+  },
+  {
+    "id": 317,
+    "domain": "property",
+    "front": "What is emphyteusis (emphytéose)?",
+    "back": "Emphyteusis grants full benefit and use of another person's immovable for a fixed term. The emphyteuta must preserve the immovable and make lasting improvements that increase its value. The term must be established in the constituting act and fall within the statutory range."
+  },
+  {
+    "id": 318,
+    "domain": "property",
+    "front": "How does accession affect buildings placed on land?",
+    "back": "Buildings, works, and plantations on an immovable are presumed to have been made by the owner at the owner's expense. They normally belong to the immovable owner through accession. Compensation questions can arise when another person supplied materials or made the improvements."
+  },
+  {
+    "id": 319,
+    "domain": "property",
+    "front": "Does ownership of land include the space above and below the surface?",
+    "back": "Ownership of the soil carries ownership of what is above and below the surface. The owner may construct or plant there, subject to law. Public rights over mines, water, and other resources can limit that power."
+  },
+  {
+    "id": 320,
+    "domain": "property",
+    "front": "What happens when a possessor builds or plants on another person's immovable?",
+    "back": "The immovable owner acquires the constructions, works, or plantations by accession. The possessor may have reimbursement rights for necessary or useful disbursements depending on good faith and the nature of the work. Bad faith can affect the reimbursement and removal rights."
+  },
+  {
+    "id": 321,
+    "domain": "property",
+    "front": "What annoyances must neighbours tolerate under Quebec property law?",
+    "back": "Neighbours must tolerate normal annoyances that do not exceed the limits of tolerance owed in the circumstances. The analysis considers the nature or location of the land and local usage. Excessive or unreasonable interference can support a remedy."
+  },
+  {
+    "id": 322,
+    "domain": "property",
+    "front": "When may an owner require the boundaries between contiguous lands to be fixed?",
+    "back": "An owner may compel a neighbour to determine the boundary and fix or restore boundary markers. The parties may agree on a land surveyor, and the resulting boundary minutes are registered. A court resolves disagreement under the procedural rules."
+  },
+  {
+    "id": 323,
+    "domain": "property",
+    "front": "Who owns fruit that falls from a tree onto neighbouring land?",
+    "back": "Fruit falling from a tree onto neighbouring land remains the tree owner's property. This specific rule overrides an assumption based only on where the fruit landed. The tree owner may recover the fruit."
+  },
+  {
+    "id": 324,
+    "domain": "property",
+    "front": "What remedy applies when branches or roots seriously obstruct an owner's land?",
+    "back": "The affected owner may request that the neighbour cut the branches or roots. If the neighbour refuses, the owner may compel the cutting through legal process. A tree that threatens to fall can also be addressed under the safety rule."
+  },
+  {
+    "id": 325,
+    "domain": "property",
+    "front": "When may the owner of enclosed land claim a right of way?",
+    "back": "A landowner with no access or only inadequate access to a public road may require a right of way when neighbours refuse another access arrangement. The route is chosen with regard to natural access and the relative inconvenience. The beneficiary normally pays an indemnity for injury caused."
+  },
+  {
+    "id": 326,
+    "domain": "property",
+    "front": "When does a right of way end?",
+    "back": "A right of way ends when it is no longer necessary for the enclosed land's use and exploitation. The beneficiary does not recover the indemnity already paid. If the indemnity was an annual rent or instalments, future payments stop."
+  },
+  {
+    "id": 327,
+    "domain": "property",
+    "front": "Where are property rights published in Quebec?",
+    "back": "Publication occurs by registration in the land register or the register of personal and movable real rights, according to the right. Land register publication concerns immovable real rights and related acts. The applicable register must be chosen from the right's subject matter."
+  },
+  {
+    "id": 328,
+    "domain": "property",
+    "front": "Which changes to an immovable real right require publication?",
+    "back": "The acquisition, creation, recognition, modification, transmission, or extinction of an immovable real right requires publication. Certain family and succession renunciations also require publication. Publication lets the right be set up against third persons."
+  },
+  {
+    "id": 329,
+    "domain": "property",
+    "front": "Do rights produce effects between the parties before publication?",
+    "back": "Rights generally produce effects between the parties even before publication. Publication is needed for opposability to third persons and for ranking in many cases. A statute may expressly require publication for additional effects."
+  },
+  {
+    "id": 330,
+    "domain": "property",
+    "front": "What does a person acquiring property from a registered right need to consider?",
+    "back": "A registered right concerning the property is presumed known to a person who acquires or publishes a right in it. Failure to consult the register can prevent that person from claiming good faith against the registered right. The registration system therefore supports reliable property transactions."
+  },
+  {
+    "id": 331,
+    "domain": "property",
+    "front": "Who prevails when two acquirers receive title from the same predecessor?",
+    "back": "The right is acquired by the acquirer who first publishes the right. This rule applies to two acquirers of the same immovable from the same predecessor. Publication determines priority rather than the order of private signatures alone."
+  },
+  {
+    "id": 332,
+    "domain": "property",
+    "front": "What is a hypothec (hypothèque)?",
+    "back": "A hypothec is a real right charging movable or immovable property to secure performance of an obligation. It lets the creditor follow the property, take possession, take it in payment, or sell it according to law. The creditor has a preference on the proceeds at the registered rank."
+  },
+  {
+    "id": 333,
+    "domain": "property",
+    "front": "Is a hypothec independent of the debt it secures?",
+    "back": "A hypothec is accessory to the obligation it secures and exists only while that obligation subsists. It is indivisible and covers all the charged property and every part of it. Payment of the secured obligation extinguishes the accessory right."
+  },
+  {
+    "id": 334,
+    "domain": "property",
+    "front": "What are the principal sources of a hypothec?",
+    "back": "A hypothec may be conventional or legal. Conventional hypothecs arise by agreement, while legal hypothecs arise under the Code or another law. A court judgment does not create a distinct judicial hypothec category in the current scheme."
+  },
+  {
+    "id": 335,
+    "domain": "property",
+    "front": "How is a hypothec classified as movable or immovable?",
+    "back": "The classification follows the property charged or the universality charged. A hypothec with delivery may also be called a pledge. Publication and enforcement rules then depend on the type of charged property."
+  },
+  {
+    "id": 336,
+    "domain": "obligations",
+    "front": "What is an obligation (obligation) in Quebec civil law?",
+    "back": "An obligation is a juridical relationship requiring a debtor to perform a prestation for a creditor. The prestation may involve giving, doing, or not doing something. The obligation may arise from a contract, law, or another recognized source."
+  },
+  {
+    "id": 337,
+    "domain": "obligations",
+    "front": "Is freedom of contract unlimited in Quebec?",
+    "back": "Parties may create and shape obligations according to their lawful intentions. Their freedom remains subject to public order, mandatory statutes, good faith, and specific rules for certain contracts. A clause cannot displace an imperative legal protection."
+  },
+  {
+    "id": 338,
+    "domain": "obligations",
+    "front": "How does the Civil Code define a contract?",
+    "back": "A contract is an agreement of wills by which one or more persons obligate themselves to another person or persons. The obligation concerns performance of a prestation. Written form is not required unless a statute or the parties make it necessary."
+  },
+  {
+    "id": 339,
+    "domain": "obligations",
+    "front": "What conditions are generally required to form a valid contract?",
+    "back": "The parties must have capacity and exchange valid consent. The contract must also have an object and a lawful cause. A required form must be observed when the law or parties make form essential."
+  },
+  {
+    "id": 340,
+    "domain": "obligations",
+    "front": "When is a contract formed after an offer is made?",
+    "back": "A contract is generally formed when acceptance is received by the offeror. The place of formation follows the place of receipt. The parties may leave secondary elements for later agreement without preventing formation of the main contract."
+  },
+  {
+    "id": 341,
+    "domain": "obligations",
+    "front": "Can an offeror revoke an offer before the recipient accepts?",
+    "back": "If the offer contains a term for acceptance, the offer may not be revoked before that term expires. Without a term, the offer may be revoked before acceptance is received. Acceptance after the offer lapses creates no contract by itself."
+  },
+  {
+    "id": 342,
+    "domain": "obligations",
+    "front": "Does silence normally amount to acceptance of a contract?",
+    "back": "Silence does not imply acceptance unless the parties' will, law, or special circumstances indicate otherwise. A prior business relationship or recognized usage may sometimes supply the exception. The receiving party's silence alone is generally not consent."
+  },
+  {
+    "id": 343,
+    "domain": "obligations",
+    "front": "Which defects can vitiate consent to a contract?",
+    "back": "Consent must be free and enlightened. Error, fear, and lesion are the principal defects recognized by the Civil Code. The defect must meet the statutory conditions for the contract to be annulled."
+  },
+  {
+    "id": 344,
+    "domain": "obligations",
+    "front": "When does lesion generally justify annulment of a contract for a person of full age?",
+    "back": "Lesion involves exploitation that creates a serious disproportion between the prestations. Outside specific statutory exceptions, lesion vitiates consent only for minors and protected persons of full age. A merely unfavourable bargain is not automatically lesion."
+  },
+  {
+    "id": 345,
+    "domain": "obligations",
+    "front": "What is the cause of a contract?",
+    "back": "The cause is the reason that determines each party to enter the contract. It need not be expressly stated. A prohibited or public order cause makes the contract null."
+  },
+  {
+    "id": 346,
+    "domain": "obligations",
+    "front": "What is the object of a contract?",
+    "back": "The object is the juridical operation created by the parties' rights and obligations. It must be possible and sufficiently determinate. It also must not be prohibited by law or contrary to public order."
+  },
+  {
+    "id": 347,
+    "domain": "obligations",
+    "front": "When is a particular form required for a contract?",
+    "back": "A contract generally forms by the exchange of consent. A particular or solemn form is necessary only when the law requires it or the parties make it essential. A required form must also be followed for later modifications except accessory changes."
+  },
+  {
+    "id": 348,
+    "domain": "obligations",
+    "front": "How do absolute and relative nullity differ?",
+    "back": "Absolute nullity protects the general interest and may be raised by anyone with a present and actual interest. Relative nullity protects an individual interest and is usually invoked by the protected person. Confirmation and available remedies depend on the type of nullity."
+  },
+  {
+    "id": 349,
+    "domain": "obligations",
+    "front": "When must contracting parties act in good faith?",
+    "back": "Good faith governs the time when the obligation arises. It also governs performance and extinction of the obligation. Conduct must remain honest and reasonable throughout the contractual relationship."
+  },
+  {
+    "id": 350,
+    "domain": "obligations",
+    "front": "What obligations bind parties after a contract is validly formed?",
+    "back": "The contract binds them to what they expressly agreed. It also binds them to what follows from its nature, usage, equity, or law. The full contractual relationship therefore extends beyond a narrow literal reading."
+  },
+  {
+    "id": 351,
+    "domain": "obligations",
+    "front": "What is the primary goal when interpreting a contract?",
+    "back": "The court seeks the common intention of the parties. Literal wording does not control when the overall intention is different. The words remain important evidence of that intention."
+  },
+  {
+    "id": 352,
+    "domain": "obligations",
+    "front": "Which context can a court consider when interpreting a contract?",
+    "back": "The court may consider the contract's nature and the circumstances of formation. Prior conduct, later conduct, and usage can also clarify the parties' intention. Each clause is read in light of the contract as a whole."
+  },
+  {
+    "id": 353,
+    "domain": "obligations",
+    "front": "How is doubt interpreted in a contract?",
+    "back": "A doubtful clause is interpreted against the person who stipulated the obligation. In all cases, it is interpreted in favour of the adhering party or consumer. This rule protects the weaker party in standardized contracts."
+  },
+  {
+    "id": 354,
+    "domain": "obligations",
+    "front": "When is an external clause binding in a contract of adhesion?",
+    "back": "An external clause is binding only if it was expressly brought to the adhering party's attention when the contract formed. The other party may prove that the adhering party already knew of it. Otherwise, the clause is null in that context."
+  },
+  {
+    "id": 355,
+    "domain": "obligations",
+    "front": "What makes a clause abusive in a contract of adhesion or consumer contract?",
+    "back": "A clause is abusive when it is excessively and unreasonably detrimental to the adhering party or consumer and contrary to good faith. A clause that distorts the contract's fundamental obligations is an example. The clause is null or the obligation may be reduced."
+  },
+  {
+    "id": 356,
+    "domain": "obligations",
+    "front": "Does one invalid clause destroy the entire contract?",
+    "back": "A null clause does not automatically invalidate the remaining contract. The remaining terms survive unless the contract can only operate as an indivisible whole. The court determines the effect of the invalid part."
+  },
+  {
+    "id": 357,
+    "domain": "obligations",
+    "front": "What is a stipulation for another (stipulation pour autrui)?",
+    "back": "A person may contract for a benefit to a third party beneficiary. The beneficiary may then demand performance directly from the promisor. Revocation is limited once the beneficiary accepts or informs the promisor or stipulator."
+  },
+  {
+    "id": 358,
+    "domain": "obligations",
+    "front": "What is a promise for another (promesse pour autrui)?",
+    "back": "A person may promise in their own name that another person will undertake an obligation. The promisor does not bind that third person without authority. The promisor is liable for injury if the third person does not undertake the promised obligation."
+  },
+  {
+    "id": 359,
+    "domain": "obligations",
+    "front": "What is assignment of a claim (cession de créance)?",
+    "back": "A creditor may transfer a claim to another person. The assignment carries the claim and its accessories according to the statutory rules. The debtor must be able to identify the new creditor before performance is redirected."
+  },
+  {
+    "id": 360,
+    "domain": "obligations",
+    "front": "What is subrogation in an obligation?",
+    "back": "Subrogation places a person in the original creditor's legal position. It may arise by agreement or by law. The substituted creditor takes the claim with its accessories and limits."
+  },
+  {
+    "id": 361,
+    "domain": "obligations",
+    "front": "When is a debtor in default?",
+    "back": "A debtor may be in default through the contract's terms, an extrajudicial demand, a judicial application, or operation of law. Serious timing failures and breach of a duty not to act can create automatic default. Creditors must identify the correct route."
+  },
+  {
+    "id": 362,
+    "domain": "obligations",
+    "front": "What form must an extrajudicial demand putting a debtor in default take?",
+    "back": "The demand must be made in writing. It must allow sufficient time for performance according to the obligation and circumstances. The debtor may perform within a reasonable time if the demand allowed too little time."
+  },
+  {
+    "id": 363,
+    "domain": "obligations",
+    "front": "What is superior force (force majeure)?",
+    "back": "Superior force is an unforeseeable and irresistible event that makes performance impossible. External causes with those characteristics may also qualify. Mere difficulty, increased cost, or reduced profitability is not enough."
+  },
+  {
+    "id": 364,
+    "domain": "obligations",
+    "front": "When may a creditor require specific performance?",
+    "back": "Specific performance may be demanded in cases that admit it. The debtor must have failed to perform without justification and be in default. The remedy must not conflict with the nature of the obligation or another legal limit."
+  },
+  {
+    "id": 365,
+    "domain": "obligations",
+    "front": "May a creditor have an obligation performed at the debtor's expense?",
+    "back": "A creditor may perform or arrange performance after the debtor is in default. The default demand or judicial application must ordinarily mention that intention. The debtor then bears the reasonable cost of substitute performance."
+  },
+  {
+    "id": 366,
+    "domain": "obligations",
+    "front": "When may a party withhold performance under a synallagmatic contract?",
+    "back": "A party may refuse its own performance when the other side fails substantially to perform an exigible reciprocal obligation. The refusal must correspond to the other side's nonperformance. A party required to perform first cannot rely on the exception in the same way."
+  },
+  {
+    "id": 367,
+    "domain": "obligations",
+    "front": "What is the difference between resolution and resiliation?",
+    "back": "Resolution treats the contract as never having existed and requires restoration of received prestations. Resiliation ends a contract of successive performance only for the future. Neither remedy is available for a default of minor importance in the ordinary case."
+  },
+  {
+    "id": 368,
+    "domain": "obligations",
+    "front": "How does a penal clause operate when the debtor breaches?",
+    "back": "A penal clause fixes damages in advance for nonperformance. The creditor may claim the stipulated penalty without proving actual injury. The creditor cannot demand both performance and the penalty unless the penalty was specifically for delay."
+  },
+  {
+    "id": 369,
+    "domain": "obligations",
+    "front": "May a court reduce an excessive penal clause?",
+    "back": "The amount of a penal clause may be reduced when the creditor benefited from partial performance. It may also be reduced when the clause is abusive. The court balances the stipulated amount with the actual contractual relationship."
+  },
+  {
+    "id": 370,
+    "domain": "obligations",
+    "front": "Which damages are recoverable for breach of contract?",
+    "back": "Damages compensate bodily, moral, or material injury that is an immediate and direct consequence of the default. The creditor may recover loss sustained and profit deprived. Future injury that is certain and assessable may also be considered."
+  },
+  {
+    "id": 371,
+    "domain": "obligations",
+    "front": "Does a creditor have a duty to avoid aggravating the loss?",
+    "back": "A debtor is not liable for aggravation of injury that the creditor could have avoided. The creditor should take reasonable steps to limit further loss. The defendant bears the burden of showing avoidable aggravation."
+  },
+  {
+    "id": 372,
+    "domain": "obligations",
+    "front": "May a contracting party avoid contractual liability by choosing extracontractual rules?",
+    "back": "A party who breaches a contractual undertaking is subject to contractual liability. The parties cannot avoid that framework by choosing rules that would be more favourable to them. A third person outside the contract may have a separate extracontractual claim."
+  },
+  {
+    "id": 373,
+    "domain": "obligations",
+    "front": "Can an employer be liable for an employee's fault?",
+    "back": "An employer may be liable for injury caused by an employee's fault within the employee's duties. The claim may be contractual or extracontractual depending on the relationship between the parties. The employee's immunity is not absolute when the employee commits a separate personal fault."
+  },
+  {
+    "id": 374,
+    "domain": "obligations",
+    "front": "What is a solidary obligation (obligation solidaire)?",
+    "back": "Each solidary debtor may be compelled to perform the entire obligation. The creditor may claim from one debtor without first dividing the claim among all. Internal contribution rights determine each debtor's ultimate share."
+  },
+  {
+    "id": 375,
+    "domain": "obligations",
+    "front": "What is an indivisible obligation?",
+    "back": "An indivisible obligation is one whose prestation cannot be divided without changing its nature or intended result. Each debtor may be required to perform the whole prestation. Contribution among debtors is settled according to their internal shares."
+  },
+  {
+    "id": 376,
+    "domain": "obligations",
+    "front": "What is the Civil Code definition of a contract (contrat)?",
+    "back": "A contract is an agreement of wills by which one or several persons obligate themselves toward others to perform a prestation. The prestation is what the debtor must give, do, or not do."
+  },
+  {
+    "id": 377,
+    "domain": "obligations",
+    "front": "Which elements are essential to an obligation arising from a juridical act?",
+    "back": "Article 1371 requires persons between whom the obligation exists, a prestation forming its object, and a cause justifying its existence. A juridical act must therefore be examined for parties, obligatory performance, and legal justification."
+  },
+  {
+    "id": 378,
+    "domain": "obligations",
+    "front": "What conditions ordinarily allow a contract to be formed by the exchange of consent?",
+    "back": "Article 1385 requires contracting capacity and an exchange of consent unless the law or parties require a particular form. A required form must be completed before the contract can be considered validly formed."
+  },
+  {
+    "id": 379,
+    "domain": "obligations",
+    "front": "When does a proposal qualify as an offer to contract rather than preliminary discussion?",
+    "back": "Article 1388 requires the proposal to contain all essential elements of the proposed contract and show willingness to be bound by acceptance. A statement that leaves essential terms open is generally not an offer."
+  },
+  {
+    "id": 380,
+    "domain": "obligations",
+    "front": "When and where is a contract ordinarily formed after acceptance?",
+    "back": "Article 1387 forms the contract when and where acceptance is received by the offeror. The result can occur despite an agreement to negotiate certain secondary elements later."
+  },
+  {
+    "id": 381,
+    "domain": "obligations",
+    "front": "What legal effect can a promise to enter into a proposed contract create under article 1396?",
+    "back": "A promise made to a determinate person can bind the promisor once the offeree clearly indicates an intention to consider and reply within a reasonable period or stated time. The remedy depends on the promise, reliance, and resulting injury."
+  },
+  {
+    "id": 382,
+    "domain": "obligations",
+    "front": "Why must consent to a contract be free and enlightened?",
+    "back": "Article 1399 requires consent to be free and enlightened rather than produced by a defect that deprives it of real choice. A party must understand the essential nature of what is being accepted."
+  },
+  {
+    "id": 383,
+    "domain": "obligations",
+    "front": "When does error vitiate consent under article 1400?",
+    "back": "Error must concern the nature of the contract, the object of the prestation, or another essential element that determined consent. A minor or collateral mistake does not necessarily invalidate the contract."
+  },
+  {
+    "id": 384,
+    "domain": "obligations",
+    "front": "How does fraud (dol) affect contractual consent?",
+    "back": "Article 1401 addresses error induced by fraud committed by the other party or with that party's knowledge. Consent is vitiated when the fraud caused the person to contract or to accept materially different terms."
+  },
+  {
+    "id": 385,
+    "domain": "obligations",
+    "front": "What kind of fear (crainte) can invalidate contractual consent?",
+    "back": "Article 1402 concerns fear of serious injury to the person or property caused by violence or threats. The threat must be exerted or made by the other party or known to that party, and abusive exercise of a right or power can also vitiate consent."
+  },
+  {
+    "id": 386,
+    "domain": "obligations",
+    "front": "When is lesion (lésion) available as a contractual remedy?",
+    "back": "Article 1405 ordinarily limits lesion to minors and protected adults unless another law expressly provides it. Article 1406 defines lesion as exploitation creating a serious disproportion between the parties' prestations."
+  },
+  {
+    "id": 387,
+    "domain": "obligations",
+    "front": "Is an external clause referred to by a contract legally binding?",
+    "back": "Article 1435 makes an external clause referred to in a contract binding on the parties. Its enforceability still depends on the rules protecting consumers and adhering parties against illegible, incomprehensible, or abusive terms."
+  },
+  {
+    "id": 388,
+    "domain": "obligations",
+    "front": "What remedy applies to an illegible or incomprehensible clause in an adhesion or consumer contract?",
+    "back": "Article 1436 makes the clause null when it is illegible or incomprehensible to a reasonable person and causes injury. The clause may survive only if the other party proves that an adequate explanation of its nature and scope was given."
+  },
+  {
+    "id": 389,
+    "domain": "obligations",
+    "front": "When is a contractual clause abusive and what remedy follows?",
+    "back": "A clause is abusive when it is excessively and unreasonably detrimental and contrary to good faith, especially when it changes the nature of the contract. Article 1437 makes the clause null or permits reduction of the obligation it creates."
+  },
+  {
+    "id": 390,
+    "domain": "obligations",
+    "front": "Does one null clause automatically invalidate the entire contract?",
+    "back": "Article 1438 treats a null clause as affecting only that clause unless the contract can exist only as an indivisible whole. The court therefore examines whether the remaining obligations still form a coherent agreement."
+  },
+  {
+    "id": 391,
+    "domain": "obligations",
+    "front": "What primary search governs contractual interpretation under article 1425?",
+    "back": "Interpretation seeks the common intention of the parties rather than mere adherence to literal words. The written text remains central evidence, but it is read through the parties' actual agreement and surrounding circumstances."
+  },
+  {
+    "id": 392,
+    "domain": "obligations",
+    "front": "Why are all clauses of a contract read together during interpretation?",
+    "back": "Article 1427 requires each clause to be read in light of the whole contract. This approach gives each term a coherent meaning and helps identify the parties' common intention."
+  },
+  {
+    "id": 393,
+    "domain": "obligations",
+    "front": "How should doubt be resolved in an adhesion contract or consumer contract?",
+    "back": "Article 1432 resolves doubt against the party who stipulated the obligation and in favour of the party who contracted it. The provision also directs interpretation in favour of the adhering party or consumer."
+  },
+  {
+    "id": 394,
+    "domain": "obligations",
+    "front": "What obligations arise beyond the express clauses of a valid contract?",
+    "back": "Article 1434 binds the parties to what they expressed and to what is incident to the contract according to its nature, usage, equity, or law. Good faith also governs formation, performance, and extinction of the obligation."
+  },
+  {
+    "id": 395,
+    "domain": "obligations",
+    "front": "What is the relativity of contracts under article 1440?",
+    "back": "A contract ordinarily has effect only between the contracting parties and does not affect third persons except where the law provides. Stipulation for another and assignment are examples of legally recognized extensions or transfers of contractual effects."
+  },
+  {
+    "id": 396,
+    "domain": "obligations",
+    "front": "What is a stipulation for another person (stipulation pour autrui)?",
+    "back": "Article 1444 permits a party to stipulate in a contract for the benefit of a third person and gives the beneficiary a direct right against the promisor. Article 1445 provides that the beneficiary need only be determinable when the stipulation is made and exist when performance is due."
+  },
+  {
+    "id": 397,
+    "domain": "obligations",
+    "front": "When can a stipulation for another person be revoked?",
+    "back": "Article 1446 allows revocation until the beneficiary informs the stipulator or promisor of the intention to accept. After acceptance, the beneficiary's position limits revocation."
+  },
+  {
+    "id": 398,
+    "domain": "obligations",
+    "front": "What happens when a person promises that a third person will undertake an obligation?",
+    "back": "Article 1443 does not allow the promisor to bind the third person by a contract made only in the promisor's name. The promisor is liable for injury if the third person fails to undertake the promised obligation."
+  },
+  {
+    "id": 399,
+    "domain": "obligations",
+    "front": "What rights and accessories pass when a creditor assigns a claim (cession de créance)?",
+    "back": "Article 1637 permits assignment of all or part of a claim or right of action. Article 1638 includes the claim's accessories in the assignment unless the nature or terms exclude them."
+  },
+  {
+    "id": 400,
+    "domain": "obligations",
+    "front": "When may an assignment of a claim be set up against the debtor?",
+    "back": "Article 1641 allows the assignment to be set up once the debtor acquiesces or receives a copy, extract, or sufficient evidence of the assignment. Until then, payment to the assignor may still affect the debtor's position."
+  },
+  {
+    "id": 401,
+    "domain": "obligations",
+    "front": "Which defences may a debtor raise against the assignee of a claim?",
+    "back": "Article 1643 preserves payment to the assignor and other causes of extinction that occurred before the assignment could be set up. The debtor may also raise defences connected to the assigned obligation under the applicable rules."
+  },
+  {
+    "id": 402,
+    "domain": "obligations",
+    "front": "What is subrogation (subrogation) and how can it be conventional or legal?",
+    "back": "Subrogation transfers the creditor's rights to a person who pays in the debtor's place. Conventional subrogation must be express and written, while legal subrogation arises from the situations established by law."
+  },
+  {
+    "id": 403,
+    "domain": "obligations",
+    "front": "What happens when novation (novation) replaces an existing debt?",
+    "back": "Article 1660 substitutes a new debt or debtor for the former obligation, which is extinguished. The intention to make novation must be clear because it discharges the original obligation."
+  },
+  {
+    "id": 404,
+    "domain": "obligations",
+    "front": "What is a conditional obligation and what conditions are lawful?",
+    "back": "Article 1497 makes an obligation depend on a future and uncertain event that suspends or extinguishes it. The condition must be possible and neither unlawful nor contrary to public order."
+  },
+  {
+    "id": 405,
+    "domain": "obligations",
+    "front": "Is solidarity between debtors presumed when several persons owe the same obligation?",
+    "back": "Article 1525 states that solidarity is not presumed and must be expressly stipulated or provided by law. Extracontractual liability for several wrongdoers is one situation where solidarity can arise by law."
+  },
+  {
+    "id": 406,
+    "domain": "obligations",
+    "front": "How does a facultative obligation differ from an alternative obligation?",
+    "back": "An alternative obligation has several principal prestations, while a facultative obligation has one principal prestation with a substitute performance that can release the debtor. The choice and impossibility rules depend on which structure the parties created."
+  },
+  {
+    "id": 407,
+    "domain": "obligations",
+    "front": "What does full and proper performance require from a debtor?",
+    "back": "Article 1590 gives the creditor the right to demand performance in full, properly, and without delay. Partial or defective performance can trigger the creditor's remedies when no lawful justification exists."
+  },
+  {
+    "id": 408,
+    "domain": "obligations",
+    "front": "How may a debtor be placed in default for nonperformance?",
+    "back": "Default can arise from a contractual term, a written extrajudicial demand, a judicial application, or operation of law in urgent or time sensitive situations. The applicable method determines when damages and other remedies become available."
+  },
+  {
+    "id": 409,
+    "domain": "obligations",
+    "front": "When may a creditor demand specific performance of a contractual obligation?",
+    "back": "Article 1601 permits specific performance in cases where that remedy is possible and appropriate. If specific performance is unavailable or not sought, the creditor may consider resolution, resiliation, or damages under the governing conditions."
+  },
+  {
+    "id": 410,
+    "domain": "obligations",
+    "front": "How do resolution and resiliation differ after a serious breach?",
+    "back": "Resolution treats the contract as never having existed and ordinarily requires restitution of prestations. Resiliation ends a contract of successive performance for the future while preserving effects already produced."
+  },
+  {
+    "id": 411,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What is the general extracontractual liability rule in article 1457?",
+    "back": "Every person must follow the rules of conduct required by the circumstances, usage, or law so as not to cause injury to another. A person who breaches that duty through fault may be liable for the resulting injury."
+  },
+  {
+    "id": 412,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Which basic elements must a claimant prove in a general extracontractual liability case?",
+    "back": "The claimant must prove fault, injury, and a causal connection between the fault and the injury. A failure to prove one of those elements defeats the general liability claim."
+  },
+  {
+    "id": 413,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How is the standard of reasonable conduct assessed in a fault analysis?",
+    "back": "Fault is measured by what a prudent and reasonable person would do in comparable circumstances. Factors include foreseeability, risk, available precautions, professional norms, usage, and the burden of preventing harm."
+  },
+  {
+    "id": 414,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How does professional fault differ from ordinary negligence?",
+    "back": "A professional is expected to use the knowledge, skill, and care of a reasonably competent member of the profession. Departure from accepted practice is relevant evidence, but the court still examines the particular risks and circumstances."
+  },
+  {
+    "id": 415,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What type of causal link is required for extracontractual damages?",
+    "back": "The injury must be an immediate and direct consequence of the fault or the autonomous act that creates liability. Speculative or remote consequences are not compensable merely because they followed the event in time."
+  },
+  {
+    "id": 416,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When can superior force (force majeure) defeat civil liability?",
+    "back": "A defendant may be released by proving that the injury resulted from superior force if the defendant did not undertake to cover that event. The event must be unforeseeable, irresistible, and external under the applicable analysis."
+  },
+  {
+    "id": 417,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What protection does article 1471 give a person who voluntarily assists another?",
+    "back": "A person who comes to another's assistance or acts gratuitously for another's benefit is exempt from liability unless the injury results from intentional or gross fault. The rule encourages emergency assistance while protecting reasonable intervention."
+  },
+  {
+    "id": 418,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Does voluntary assumption of risk eliminate an injured person's civil remedy?",
+    "back": "Article 1477 states that assuming a risk may be imprudent but does not by itself renounce the remedy against the person who caused the injury. The victim's conduct may still reduce liability or damages under comparative analysis."
+  },
+  {
+    "id": 419,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How is liability shared when several wrongdoers cause the same injury?",
+    "back": "Article 1478 generally shares liability in proportion to the seriousness of each wrongdoer's fault. The court still assesses the contribution of each person to the injury."
+  },
+  {
+    "id": 420,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When does solidarity arise among several extracontractual wrongdoers?",
+    "back": "Article 1480 applies when wrongdoers jointly participate or commit separate faults that may each have caused the injury and the actual cause cannot be identified. Article 1526 also makes extracontractual liability solidary when several persons are liable for the same injury."
+  },
+  {
+    "id": 421,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can an injured person recover damages for consequences that reasonable steps could have avoided?",
+    "back": "Article 1479 prevents recovery for aggravation of injury that the victim could have avoided. The victim must take reasonable mitigation steps but is not required to perform impossible or disproportionately burdensome actions."
+  },
+  {
+    "id": 422,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a person exclude liability for intentional or gross fault causing material injury?",
+    "back": "Article 1474 prohibits excluding or limiting liability for material injury caused through intentional or gross fault. Gross fault involves serious recklessness or carelessness beyond ordinary negligence."
+  },
+  {
+    "id": 423,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When does a contractual notice limiting liability affect the creditor?",
+    "back": "Article 1475 enforces a notice excluding or limiting liability for contractual nonperformance only if the party relying on it proves the creditor knew of it at contract formation. Fine print does not automatically become a binding limitation."
+  },
+  {
+    "id": 424,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a notice exclude liability to third persons for nonperformance?",
+    "back": "Article 1476 prevents a person from using a notice to exclude or limit liability toward third persons. The notice may instead serve as evidence that a danger was disclosed."
+  },
+  {
+    "id": 425,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What form of liability applies to the custodian of a thing that causes injury autonomously?",
+    "back": "Article 1465 makes the custodian liable for injury caused by the autonomous act of the thing unless the custodian proves absence of fault. The rule concerns the thing's own dangerous operation rather than every injury somehow connected to it."
+  },
+  {
+    "id": 426,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Who is liable for injury caused by an animal under article 1466?",
+    "back": "The owner is liable whether the animal was under the owner's custody, another person's custody, or had escaped. A person making use of the animal is jointly liable with the owner during that use, and the claimant must connect the animal's conduct to the injury."
+  },
+  {
+    "id": 427,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When is the owner of an immovable liable for its ruin?",
+    "back": "Article 1467 makes the owner liable for injury caused by the ruin of the immovable, even partial ruin. Liability can arise from lack of repair or a construction defect."
+  },
+  {
+    "id": 428,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What makes a movable thing suffer from a safety defect under article 1469?",
+    "back": "A thing has a safety defect when it fails to provide the safety a person is normally entitled to expect. The assessment includes design, manufacture, preservation, presentation, risk information, and reasonable use conditions."
+  },
+  {
+    "id": 429,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When may a manufacturer or supplier escape liability for a safety defect?",
+    "back": "Article 1473 can release a manufacturer, distributor, or supplier when the victim knew or could have known of the defect or could have foreseen the injury. The evidence must establish one of those statutory circumstances."
+  },
+  {
+    "id": 430,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What liability can arise when a minor causes injury to another person?",
+    "back": "Article 1459 makes a person with parental authority liable for injury caused by the minor's act, omission, or fault. That person may avoid liability by proving no fault in custody, supervision, or education."
+  },
+  {
+    "id": 431,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What liability applies to a person entrusted with a minor's custody or supervision?",
+    "back": "Article 1460 imposes liability similar to parental liability when custody, supervision, or education has been entrusted to another person. The defendant may challenge fault in the exercise of that delegated responsibility."
+  },
+  {
+    "id": 432,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How does the Civil Code treat injury caused by a person not endowed with reason?",
+    "back": "Article 1462 imposes liability only when the conduct would otherwise have been wrongful if done by a person with reason. The responsibility of a custodian under article 1461 is separate and requires intentional or gross fault in custody."
+  },
+  {
+    "id": 433,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When is a principal liable for the fault of a subordinate?",
+    "back": "Article 1463 makes the principal liable for injury caused by a subordinate's fault in the performance of the subordinate's duties. The principal retains a remedy against the subordinate."
+  },
+  {
+    "id": 434,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How does Quebec contractual liability limit foreseeable damages?",
+    "back": "Article 1613 ordinarily limits contractual damages to losses that were foreseen or foreseeable when the obligation was contracted. Intentional or gross fault removes that foreseeability limit, but damages must still be an immediate and direct consequence."
+  },
+  {
+    "id": 435,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Are punitive damages available in every civil liability case?",
+    "back": "Punitive damages are available only when a statute provides for them. Article 1621 requires the amount to be no greater than necessary to fulfil the preventive purpose."
+  },
+  {
+    "id": 436,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What remedy can the Quebec Charter provide for unlawful interference with a protected right?",
+    "back": "The Quebec Charter allows a person whose protected right is unlawfully interfered with to seek cessation of the interference and compensation for resulting injury. The claimant must connect the protected interest to the challenged conduct and the remedy sought."
+  },
+  {
+    "id": 437,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a product warning eliminate liability when the underlying design remains unreasonably unsafe?",
+    "back": "A warning is relevant to safety but does not automatically cure a design or manufacturing risk that reasonable precautions could remove. The court examines the entire condition of the product and the safety a user could reasonably expect."
+  },
+  {
+    "id": 438,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How is causation analysed when several possible causes could have produced the same injury?",
+    "back": "The claimant must show a causal connection supported by evidence rather than mere possibility. Special rules may shift or share responsibility when several defendants' faults make the actual cause uncertain."
+  },
+  {
+    "id": 439,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a contractual exclusion of liability affect an independent extracontractual duty?",
+    "back": "A contract clause operates within the contractual relationship and does not automatically erase duties owed to other persons. The court must identify the legal basis of each claim and the scope of any valid exclusion."
+  },
+  {
+    "id": 440,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What must a claimant prove to recover material damages in a civil liability case?",
+    "back": "The claimant must prove an actual loss of money or property value caused by the wrongful conduct. The amount must be supported by evidence and cannot rest on speculation alone."
+  },
+  {
+    "id": 441,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What is the basic protective purpose of the Consumer Protection Act?",
+    "back": "The Act protects consumers in contracts with merchants by imposing mandatory disclosure, fairness, safety, warranty, and cancellation rules. It is not a general price control statute and applies according to the contract type and specific commercial practice."
+  },
+  {
+    "id": 442,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When does a transaction generally fall within a merchant and consumer relationship?",
+    "back": "The merchant must be acting in the course of business. Section 1 defines a consumer as a natural person, except a merchant who obtains goods or services for the purposes of the merchant's business."
+  },
+  {
+    "id": 443,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a merchant remove protections created by the Consumer Protection Act through contract wording?",
+    "back": "Consumer protection rights are mandatory and cannot be waived by a private clause. A term that tries to reduce or remove those protections is assessed under the Act and may be null."
+  },
+  {
+    "id": 444,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What precontract disclosure does consumer protection law expect from a merchant?",
+    "back": "The merchant must present essential contract terms clearly and provide the information needed to make an informed decision. The nature, price, credit cost, obligations, and cancellation rights must be presented according to the applicable contract rules."
+  },
+  {
+    "id": 445,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How does the Act treat false or misleading representations by a merchant?",
+    "back": "A merchant may not use representations that create a false impression about goods, services, price, warranty, or the consumer's rights. The merchant's overall presentation is examined rather than only one isolated sentence."
+  },
+  {
+    "id": 446,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What makes a promotional prize or gift practice misleading under consumer law?",
+    "back": "A promotion is misleading when it implies that the consumer has won or will receive a benefit while concealing a material condition or charge. The consumer should be able to understand the real cost and likelihood of the advertised benefit."
+  },
+  {
+    "id": 447,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Which price disclosure rule prevents an advertisement from hiding extra mandatory charges?",
+    "back": "An advertised price must include sums the consumer must pay and must not create a false impression of the total cost. Optional charges and later additions require clear disclosure according to the contract context."
+  },
+  {
+    "id": 448,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What credit cost information must a merchant disclose in a consumer credit contract?",
+    "back": "The consumer must receive clear information about the cost and terms of credit, including the required statutory particulars. Concealing the real credit cost undermines informed consent and can trigger consumer remedies."
+  },
+  {
+    "id": 449,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "When does the Act require a consumer contract to be in writing?",
+    "back": "A written contract and required statement are mandatory for the contract categories designated by the Act. The specific form depends on factors such as credit, distance, exterior, or itinerant contracting."
+  },
+  {
+    "id": 450,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How do distance contracts and itinerant-merchant contracts differ for cancellation?",
+    "back": "A distance contract is defined separately from a contract made with an itinerant merchant. Each regime has its own triggering facts, information duties, cancellation period, and restitution consequences under the Consumer Protection Act."
+  },
+  {
+    "id": 451,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What additional protections apply to an itinerant merchant contract?",
+    "back": "The contract must satisfy the Act's identification, writing, and disclosure requirements, and the merchant must have the required permit where applicable. The consumer's cancellation rights depend on whether the statutory conditions were observed."
+  },
+  {
+    "id": 452,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What does the consumer's legal warranty require for goods and services?",
+    "back": "Goods and services must be fit for their intended use, durable and safe according to reasonable expectations, and free from concealed defects that should have been disclosed. The rule applies even when the merchant did not intend to cause harm."
+  },
+  {
+    "id": 453,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Does the manufacturer have safety obligations to a consumer independent of the retailer?",
+    "back": "A manufacturer must ensure the product meets the safety reasonably expected for its intended use. A design, manufacturing, labeling, or presentation defect can support civil or consumer remedies even when a retailer also bears responsibility."
+  },
+  {
+    "id": 454,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What kind of product instructions help satisfy a merchant's or manufacturer's safety duty?",
+    "back": "The instructions must clearly communicate normal use, material risks, and reasonable precautions in a manner the intended user can understand. A warning does not excuse an unreasonably dangerous design when safer measures were reasonably available."
+  },
+  {
+    "id": 455,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Which remedies may be relevant when delivered goods have a serious consumer defect?",
+    "back": "Remedies may include performance, correction, price reduction, resiliation, or damages according to the defect and contract history. The consumer must show the defect, the inadequacy of the merchant's response, and any resulting loss."
+  },
+  {
+    "id": 456,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How does a court interpret an ambiguous term in a consumer contract?",
+    "back": "Doubt is resolved in favour of the consumer and against the party who imposed the term. The general contract interpretation rules also operate alongside the Consumer Protection Act."
+  },
+  {
+    "id": 457,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "How is an abusive clause handled in a consumer contract under the Civil Code?",
+    "back": "Article 1437 makes an abusive clause null or allows reduction of the obligation it creates. A clause can be abusive when it is excessively detrimental and contrary to good faith, especially if it changes the contract's nature."
+  },
+  {
+    "id": 458,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Why can a consumer rarely rely on a merchant's statement that the consumer has read every clause?",
+    "back": "The court examines whether the clause was presented clearly and whether the consumer could reasonably understand its effect. A declaration of general knowledge does not automatically prove informed acceptance of an unusual or harmful term."
+  },
+  {
+    "id": 459,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "Can a merchant use a contractual penalty to discourage a consumer from exercising a statutory remedy?",
+    "back": "A penalty or procedural barrier that interferes with a mandatory consumer right is vulnerable to nullity or reduction. The court assesses the actual effect of the clause on informed access to the remedy."
+  },
+  {
+    "id": 460,
+    "domain": "civil_liability_and_consumer_protection",
+    "front": "What must a consumer prove when a prohibited commercial practice influenced the transaction?",
+    "back": "The consumer must establish the factual connection between the prohibited practice and the contract. For the practices listed in section 253, the Act presumes the consumer would not have contracted or paid the higher price if the practice had been known. Remedies remain subject to section 272 and the facts of the case."
+  },
+  {
+    "id": 461,
+    "domain": "related_civil_procedure",
+    "front": "What role does the Code of Civil Procedure play in enforcing substantive rights?",
+    "back": "The Code of Civil Procedure structures how a civil claim is presented, defended, proved, managed, decided, appealed, and enforced. It does not replace the substantive law that creates the right or obligation."
+  },
+  {
+    "id": 462,
+    "domain": "related_civil_procedure",
+    "front": "How does the principle of access to justice affect procedural choices?",
+    "back": "Procedure should allow a person to bring and defend a real claim without unnecessary economic, linguistic, or practical barriers. Courts may use simplified, adapted, or managed procedures where the ordinary route would impair meaningful access."
+  },
+  {
+    "id": 463,
+    "domain": "related_civil_procedure",
+    "front": "What does a fair hearing require from a Quebec civil court?",
+    "back": "Each party must receive adequate notice, a meaningful opportunity to present evidence and argument, and an impartial decision maker. A judgment reached without those safeguards can be challenged on procedural grounds."
+  },
+  {
+    "id": 464,
+    "domain": "related_civil_procedure",
+    "front": "How is procedural proportionality applied in a civil dispute?",
+    "back": "The procedures, time, and expense should be proportionate to the dispute's nature, complexity, and value. A court may limit disclosure or another step when its likely benefit does not justify the burden."
+  },
+  {
+    "id": 465,
+    "domain": "related_civil_procedure",
+    "front": "What is judicial case management and why does it matter?",
+    "back": "Case management lets the court set a timetable, identify disputed issues, control procedural steps, and promote efficient resolution. It supports fairness and proportionality without changing the substantive law."
+  },
+  {
+    "id": 466,
+    "domain": "related_civil_procedure",
+    "front": "Why must the court's subject matter jurisdiction be checked before the merits?",
+    "back": "Subject matter jurisdiction asks whether the selected court or tribunal has legal authority to decide that type of dispute. A court without jurisdiction cannot cure the problem simply by issuing a reasoned judgment."
+  },
+  {
+    "id": 467,
+    "domain": "related_civil_procedure",
+    "front": "What facts affect territorial jurisdiction in a civil case?",
+    "back": "Territorial jurisdiction connects the dispute to a judicial district through factors such as the defendant's domicile, where the facts occurred, or where property is situated. The applicable rule depends on the nature of the claim."
+  },
+  {
+    "id": 468,
+    "domain": "related_civil_procedure",
+    "front": "What is the function of a judicial demand or originating application?",
+    "back": "The demand identifies the parties, the facts, the legal basis, and the relief sought. It gives the defendant fair notice and defines the dispute that the court is asked to decide."
+  },
+  {
+    "id": 469,
+    "domain": "related_civil_procedure",
+    "front": "How detailed must the factual allegations in a pleading ordinarily be?",
+    "back": "A pleading should state the material facts supporting each claim clearly and concisely. It should not hide an essential fact inside vague conclusions or rely only on evidence that has not yet been presented."
+  },
+  {
+    "id": 470,
+    "domain": "related_civil_procedure",
+    "front": "What purposes does a statement of defence serve?",
+    "back": "The defence answers the claims, admits or denies material facts, and identifies the legal and factual basis for resisting the demand. It also allows the court and claimant to know which issues remain contested."
+  },
+  {
+    "id": 471,
+    "domain": "related_civil_procedure",
+    "front": "When may a defendant use a cross application in the defence (demande reconventionnelle)?",
+    "back": "A cross application in the defence allows the defendant to seek relief against the plaintiff for a claim arising from the same or a related source. It must satisfy the applicable procedural conditions and provide fair notice of the new demand."
+  },
+  {
+    "id": 472,
+    "domain": "related_civil_procedure",
+    "front": "When may a third person intervene in an existing civil proceeding?",
+    "back": "An intervention requires an interest connected to the proceeding and must respect the applicable procedure and timing. The court ensures that participation assists resolution without unfairly prejudicing the existing parties."
+  },
+  {
+    "id": 473,
+    "domain": "related_civil_procedure",
+    "front": "What standard governs an amendment to a pleading?",
+    "back": "Amendments are favoured when they help determine the real questions in dispute and do not cause prejudice that cannot be remedied. A court may impose conditions, costs, or a timetable to protect the other side."
+  },
+  {
+    "id": 474,
+    "domain": "related_civil_procedure",
+    "front": "Why is valid service or notification of a proceeding essential?",
+    "back": "Valid notice allows the other party to understand the claim and prepare a response. Serious defects can affect default proceedings, deadlines, and the enforceability of an eventual judgment."
+  },
+  {
+    "id": 475,
+    "domain": "related_civil_procedure",
+    "front": "What is the role of a lawyer or representative in civil proceedings?",
+    "back": "The representative presents the party's case, communicates with the court, and must act with competence, loyalty, and candour. The representative's authority and obligations can affect procedural steps and settlement positions."
+  },
+  {
+    "id": 476,
+    "domain": "related_civil_procedure",
+    "front": "What purpose does a case protocol serve in a contested file?",
+    "back": "A case protocol proposes a schedule and the steps needed to move the dispute toward resolution. It helps the parties and court plan disclosure, motions, experts, and trial preparation."
+  },
+  {
+    "id": 477,
+    "domain": "related_civil_procedure",
+    "front": "When may a court foster conciliation between the parties?",
+    "back": "Conciliation may be encouraged when communication could narrow issues or produce a lawful settlement without unfair pressure. The court must protect voluntary choice, fairness, and the interests of vulnerable persons."
+  },
+  {
+    "id": 478,
+    "domain": "related_civil_procedure",
+    "front": "What is a transaction (transaction) in civil litigation?",
+    "back": "A transaction is an agreement by which the parties resolve a dispute or prevent future litigation through mutual concessions. Once validly concluded, it can have effects similar to a final judgment between the parties."
+  },
+  {
+    "id": 479,
+    "domain": "related_civil_procedure",
+    "front": "What does a pre-trial conference allow the court to accomplish?",
+    "back": "A pre-trial conference can clarify issues, review evidence, encourage settlement, and set trial management directions. The parties should identify unresolved facts and procedural obstacles rather than repeat all arguments."
+  },
+  {
+    "id": 480,
+    "domain": "related_civil_procedure",
+    "front": "What is a judicial admission and how does it affect proof?",
+    "back": "An admission is a party's statement accepting a relevant fact against that party's interest. A clear admission can reduce the facts requiring proof, but it must be interpreted according to its context and scope."
+  },
+  {
+    "id": 481,
+    "domain": "related_civil_procedure",
+    "front": "Why must a party disclose relevant evidence before trial?",
+    "back": "Disclosure allows each party to know and respond to the evidence and supports a fair hearing. Failure to disclose may lead to exclusion, adverse inferences, costs, or another proportional sanction."
+  },
+  {
+    "id": 482,
+    "domain": "related_civil_procedure",
+    "front": "What does the relevance test ask about proposed evidence?",
+    "back": "Evidence is relevant when it tends to make a material fact more or less probable. Relevance is determined by the issues in the pleadings and the applicable legal elements."
+  },
+  {
+    "id": 483,
+    "domain": "related_civil_procedure",
+    "front": "What additional rules can exclude evidence that is relevant?",
+    "back": "Relevant evidence may be excluded when a specific rule protects it, when its probative value is outweighed by prejudice or delay, or when a fundamental rights rule requires exclusion. The court applies the particular evidentiary framework rather than relevance alone."
+  },
+  {
+    "id": 484,
+    "domain": "related_civil_procedure",
+    "front": "When is expert evidence useful in a civil proceeding?",
+    "back": "An expert may help the court understand technical or specialized facts outside ordinary judicial knowledge. The expert must explain the method and reasoning, and the court decides the weight of the opinion."
+  },
+  {
+    "id": 485,
+    "domain": "related_civil_procedure",
+    "front": "What factors affect the weight of witness testimony?",
+    "back": "The court considers the witness's opportunity to observe, memory, consistency, impartiality, and the support provided by other evidence. Confidence alone does not guarantee accuracy."
+  },
+  {
+    "id": 486,
+    "domain": "related_civil_procedure",
+    "front": "How do authentic writings and private writings differ in evidentiary force?",
+    "back": "An authentic act ordinarily makes proof against all persons of the juridical act and qualifying declarations it records. A private writing generally proves its content against its signatories, subject to the Code's rules."
+  },
+  {
+    "id": 487,
+    "domain": "related_civil_procedure",
+    "front": "What is a legal presumption and who benefits from it?",
+    "back": "A legal presumption attaches a consequence in law to known facts and can exempt a party from further proof. The party opposing the presumed fact may challenge the presumption when the law permits rebuttal."
+  },
+  {
+    "id": 488,
+    "domain": "related_civil_procedure",
+    "front": "What happens when a defendant fails to respond to a valid judicial demand?",
+    "back": "The court may proceed by default after verifying that notice and procedural conditions are satisfied. The claimant may obtain judgment on the allegations and proof, but the court may still control the remedy."
+  },
+  {
+    "id": 489,
+    "domain": "related_civil_procedure",
+    "front": "What must a final civil judgment decide?",
+    "back": "The judgment resolves the claims in issue and states the resulting obligations or rights. It should be clear, final as to the matters decided, and capable of enforcement."
+  },
+  {
+    "id": 490,
+    "domain": "related_civil_procedure",
+    "front": "Why must a court give reasons for its civil judgment?",
+    "back": "Reasons show the parties that their evidence and arguments were considered and allow meaningful review on appeal. Adequate reasons explain the material findings and the legal basis for the result."
+  },
+  {
+    "id": 491,
+    "domain": "related_civil_procedure",
+    "front": "What procedural conditions can trigger res judicata in a later case?",
+    "back": "The later claim must involve the same object, cause, parties, and party qualities as the final judgment. When those conditions are met, the earlier decision is conclusive on the matter it decided."
+  },
+  {
+    "id": 492,
+    "domain": "related_civil_procedure",
+    "front": "What is the function of an appeal in Quebec civil proceedings?",
+    "back": "An appeal asks a higher court to review alleged legal or factual errors in the judgment below. The appeal generally reviews the existing record and is not a new trial unless the applicable rules permit new evidence."
+  },
+  {
+    "id": 493,
+    "domain": "related_civil_procedure",
+    "front": "What is the purpose of a provisional or interlocutory injunction?",
+    "back": "An injunction can preserve rights or prevent serious harm while the dispute is being decided. The court weighs urgency, apparent right, serious harm, proportionality, and the usefulness of the order."
+  },
+  {
+    "id": 494,
+    "domain": "related_civil_procedure",
+    "front": "What is a seizure in the execution of a civil judgment?",
+    "back": "A seizure places identified property under legal control so that a creditor may enforce a judgment. The creditor must respect protected property, notice, contestation, and the required sale or distribution steps."
+  },
+  {
+    "id": 495,
+    "domain": "related_civil_procedure",
+    "front": "Why must a lawyer identify the triggering event for a limitation period?",
+    "back": "The applicable period begins from the event specified by the governing law, which is not always the same as the injury date. A special statute may also impose a different period or starting point."
+  },
+  {
+    "id": 496,
+    "domain": "related_civil_procedure",
+    "front": "What purposes can a costs award serve in civil litigation?",
+    "back": "Costs can allocate the expense of proceedings and discourage unreasonable procedural conduct. The court applies the applicable tariff and may depart from the ordinary result for a recognized reason."
+  },
+  {
+    "id": 497,
+    "domain": "related_civil_procedure",
+    "front": "What happens when a party abuses the civil litigation process?",
+    "back": "A court may sanction abusive conduct through dismissal, striking pleadings, costs, damages, or another proportionate measure. The abuse must be established by the conduct and its effect, not by disagreement with the legal position."
+  },
+  {
+    "id": 498,
+    "domain": "related_civil_procedure",
+    "front": "What does voluntary enforcement require from a judgment debtor?",
+    "back": "The debtor must perform the judgment within its terms and time limits unless a lawful suspension or appeal affects execution. Otherwise, the creditor may use the enforcement measures authorized by law."
+  },
+  {
+    "id": 499,
+    "domain": "related_civil_procedure",
+    "front": "How do mediation and arbitration differ as dispute resolution methods?",
+    "back": "A mediator helps the parties negotiate their own agreement, while an arbitrator hears the dispute and issues a binding decision within the arbitration authority. The applicable agreement and law determine which process and remedies are available."
+  },
+  {
+    "id": 500,
+    "domain": "related_civil_procedure",
+    "front": "What sequence should a candidate use when a civil procedure question depends on several rules?",
+    "back": "Identify the parties and remedy, confirm jurisdiction and the applicable procedure, then analyse notice, evidence, deadlines, and enforceability. The answer should separate procedural validity from the substantive merits."
+  }
+]
